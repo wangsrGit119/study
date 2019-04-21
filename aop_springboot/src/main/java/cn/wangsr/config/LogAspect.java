@@ -8,11 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.ProceedingJoinPoint;
-import org.aspectj.lang.annotation.AfterThrowing;
-import org.aspectj.lang.annotation.Around;
-import org.aspectj.lang.annotation.Aspect;
-import org.aspectj.lang.annotation.Before;
-import org.aspectj.lang.annotation.Pointcut;
+import org.aspectj.lang.annotation.*;
 import org.springframework.stereotype.Component;
 import org.springframework.web.context.request.RequestContextHolder;
 import org.springframework.web.context.request.ServletRequestAttributes;
@@ -59,8 +55,21 @@ public class LogAspect {
 	        System.out.println("URL : " + request.getRequestURL().toString());  
 	        System.out.println("HTTP_METHOD : " + request.getMethod());  
 	        System.out.println("IP : " + request.getRemoteAddr());  
-	  }  
-	
+	  }
+
+
+	/**
+	 * 处理返回结果
+	 * @param result
+	 */
+	@AfterReturning(returning = "result",pointcut = "myPointCut01()")
+	  public void getResult(Object result){
+			System.out.println("Result:"+result);
+	  }
+
+
+
+
 	/**
 	 * 后置异常通知（适用于全局异常处理）
 	 * @param joinPoint
