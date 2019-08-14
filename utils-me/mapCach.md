@@ -1,11 +1,8 @@
-package com.cebon.monitor.cache;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+###自定义缓存 用于临时储存大量数据
 
-import java.util.LinkedHashMap;
-import java.util.Map;
-import java.util.concurrent.locks.ReentrantReadWriteLock;
+
+```java
 
 /**
  * @author: wjl
@@ -86,5 +83,6 @@ public class MapCache {
     }
 
 
-
 }
+
+```
