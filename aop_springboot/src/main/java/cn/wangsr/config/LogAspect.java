@@ -49,13 +49,30 @@ public class LogAspect {
 	 * @throws Throwable
 	 */
 	@Before("myPointCut01()")
-	 public void deBefore(JoinPoint joinPoint) throws Throwable {  
-	        ServletRequestAttributes attributes = (ServletRequestAttributes) RequestContextHolder.getRequestAttributes();  
-	        HttpServletRequest request = attributes.getRequest();  
-	        System.out.println("URL : " + request.getRequestURL().toString());  
-	        System.out.println("HTTP_METHOD : " + request.getMethod());  
-	        System.out.println("IP : " + request.getRemoteAddr());  
-	  }
+	 public void deBefore(JoinPoint joinPoint) throws Throwable {
+		ServletRequestAttributes attributes = (ServletRequestAttributes) RequestContextHolder.getRequestAttributes();
+		HttpServletRequest request = attributes.getRequest();
+		String method = request.getMethod();
+		StringBuffer paramsValue = new StringBuffer();
+		Object paramsName=null;
+		if (HttpMethod.GET.toString().equals(method)) {// get请求
+			String queryString = request.getQueryString();
+			if (StringUtils.isNotBlank(queryString)) {
+				paramsName= JSON.parseObject(JSON.toJSONString(joinPoint.getSignature())).get("parameterNames");
+				paramsValue.append( URLDecoder.decode(queryString,"UTF-8"));
+			}
+		} else {//其他请求
+			Object[] paramsArray = joinPoint.getArgs();
+			paramsName= JSON.parseObject(JSON.toJSONString(joinPoint.getSignature())).get("parameterNames");
+			for (Object o :paramsArray){
+				paramsValue.append(o+" ");
+			}
+		}
+		logger.info("URLParamName  : " + paramsName);
+		logger.info("URLParamValue  : " + paramsValue);
+		logger.info("URL:  {}, HTTP_METHOD:  {}, IP:  {}, Method:  {} ",request.getRequestURL().toString(),request.getMethod(), request.getRemoteAddr(),joinPoint.getSignature().getDeclaringTypeName()+"."+joinPoint.getSignature().getName());
+
+	}
 
 
 	/**
