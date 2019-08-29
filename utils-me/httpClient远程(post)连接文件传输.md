@@ -51,4 +51,27 @@ public void  getConnect(){
 
 ```
 
-##### 后端接口双参数：(@RequestParam("path") String path, @RequestParam("file")  MultipartFile file)
+##### 后端接口双参数：
+  > (@RequestParam("path") String path, @RequestParam("file")  MultipartFile file)
+
+ > 同理 如果多个不同参数:
+ 
+  > (@RequestParam("startTime") String startTime,@RequestParam("endTime") String endTime)
+```java
+     MultipartEntityBuilder builder = MultipartEntityBuilder.create().setMode(HttpMultipartMode.BROWSER_COMPATIBLE);
+     builder.addTextBody("startTime", startTime, ContentType.TEXT_PLAIN.withCharset("UTF-8"));
+     builder.addTextBody("endTime", endTime, ContentType.TEXT_PLAIN.withCharset("UTF-8"));
+     HttpEntity httpEntity=builder.build();
+     httpPost.setEntity(httpEntity);
+     HttpResponse response=httpclient.execute(httpPost);
+```
+  
+ #### 后端dto接收（@RequestBody Dto dto）
+ 
+ ```java
+     httpPost.addHeader("Content-Type", "application/json");
+     httpPost.setEntity(new StringEntity(JSON.toJSONString(dto),"UTF-8")); //防止中文乱码
+     CloseableHttpResponse response = httpclient.execute(httpPost);
+ 
+```
+ 
