@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bitmap-java" />
+        <module name="demophan" />
+        <module name="study-example2" />
+        <module name="study-lamda" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="9">
+      <module name="bitmap-java" target="1.5" />
+      <module name="demophan" target="1.5" />
+      <module name="study-example2" target="1.5" />
+      <module name="study-lamda" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
