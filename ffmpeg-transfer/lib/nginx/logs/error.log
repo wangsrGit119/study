@@ -1,0 +1,1266 @@
+2019/11/28 18:22:58 [notice] 15368#13856: using the "select" event method
+2019/11/28 18:22:58 [notice] 15368#13856: nginx/1.17.2
+2019/11/28 18:22:58 [info] 15368#13856: OS: 260200 build:9200, "", suite:100, type:1
+2019/11/28 18:22:58 [notice] 15368#13856: start worker processes
+2019/11/28 18:22:58 [notice] 15368#13856: start worker process 10160
+2019/11/28 18:22:58 [notice] 15704#15708: using the "select" event method
+2019/11/28 18:22:58 [notice] 15704#15708: nginx/1.17.2
+2019/11/28 18:22:58 [info] 15704#15708: OS: 260200 build:9200, "", suite:100, type:1
+2019/11/28 18:22:58 [notice] 15704#15708: start worker processes
+2019/11/28 18:22:58 [notice] 10160#1816: nginx/1.17.2
+2019/11/28 18:22:58 [info] 10160#1816: OS: 260200 build:9200, "", suite:100, type:1
+2019/11/28 18:22:58 [notice] 10160#1816: create thread 16164
+2019/11/28 18:22:58 [notice] 10160#1816: create thread 15560
+2019/11/28 18:22:58 [notice] 10160#1816: create thread 9728
+2019/11/28 18:22:58 [notice] 15704#15708: start worker process 15552
+2019/11/28 18:22:58 [notice] 15552#15564: nginx/1.17.2
+2019/11/28 18:22:58 [info] 15552#15564: OS: 260200 build:9200, "", suite:100, type:1
+2019/11/28 18:22:58 [notice] 15552#15564: create thread 13168
+2019/11/28 18:22:58 [notice] 15552#15564: create thread 4692
+2019/11/28 18:22:58 [notice] 15552#15564: create thread 15604
+2019/11/28 18:23:14 [notice] 1944#14840: using the "select" event method
+2019/11/28 18:23:14 [notice] 1944#14840: nginx/1.17.2
+2019/11/28 18:23:14 [info] 1944#14840: OS: 260200 build:9200, "", suite:100, type:1
+2019/11/28 18:23:14 [notice] 1944#14840: start worker processes
+2019/11/28 18:23:14 [notice] 1944#14840: start worker process 8096
+2019/11/28 18:23:14 [notice] 5724#13552: using the "select" event method
+2019/11/28 18:23:14 [notice] 5724#13552: nginx/1.17.2
+2019/11/28 18:23:14 [info] 5724#13552: OS: 260200 build:9200, "", suite:100, type:1
+2019/11/28 18:23:14 [notice] 5724#13552: start worker processes
+2019/11/28 18:23:14 [notice] 8096#15480: nginx/1.17.2
+2019/11/28 18:23:14 [info] 8096#15480: OS: 260200 build:9200, "", suite:100, type:1
+2019/11/28 18:23:14 [notice] 8096#15480: create thread 15012
+2019/11/28 18:23:14 [notice] 8096#15480: create thread 15968
+2019/11/28 18:23:14 [notice] 8096#15480: create thread 14852
+2019/11/28 18:23:14 [notice] 5724#13552: start worker process 14568
+2019/11/28 18:23:14 [notice] 14568#15556: nginx/1.17.2
+2019/11/28 18:23:14 [info] 14568#15556: OS: 260200 build:9200, "", suite:100, type:1
+2019/11/28 18:23:14 [notice] 14568#15556: create thread 16376
+2019/11/28 18:23:14 [notice] 14568#15556: create thread 16344
+2019/11/28 18:23:14 [notice] 14568#15556: create thread 15496
+2019/11/28 18:32:27 [notice] 3948#7228: using the "select" event method
+2019/11/28 18:32:27 [notice] 3948#7228: nginx/1.17.2
+2019/11/28 18:32:27 [info] 3948#7228: OS: 260200 build:9200, "", suite:100, type:1
+2019/11/28 18:32:27 [notice] 3948#7228: start worker processes
+2019/11/28 18:32:27 [notice] 3948#7228: start worker process 16124
+2019/11/28 18:32:27 [notice] 3316#2004: using the "select" event method
+2019/11/28 18:32:27 [notice] 3316#2004: nginx/1.17.2
+2019/11/28 18:32:27 [info] 3316#2004: OS: 260200 build:9200, "", suite:100, type:1
+2019/11/28 18:32:27 [notice] 3316#2004: start worker processes
+2019/11/28 18:32:27 [notice] 3316#2004: start worker process 8124
+2019/11/28 18:32:27 [notice] 16124#11572: nginx/1.17.2
+2019/11/28 18:32:27 [info] 16124#11572: OS: 260200 build:9200, "", suite:100, type:1
+2019/11/28 18:32:27 [notice] 16124#11572: create thread 14656
+2019/11/28 18:32:27 [notice] 16124#11572: create thread 8456
+2019/11/28 18:32:27 [notice] 16124#11572: create thread 11240
+2019/11/28 18:32:27 [notice] 8124#15376: nginx/1.17.2
+2019/11/28 18:32:27 [info] 8124#15376: OS: 260200 build:9200, "", suite:100, type:1
+2019/11/28 18:32:27 [notice] 8124#15376: create thread 14708
+2019/11/28 18:32:27 [notice] 8124#15376: create thread 14768
+2019/11/28 18:32:27 [notice] 8124#15376: create thread 12040
+2019/11/28 18:34:46 [notice] 15440#9100: using the "select" event method
+2019/11/28 18:34:46 [notice] 15440#9100: nginx/1.17.2
+2019/11/28 18:34:46 [info] 15440#9100: OS: 260200 build:9200, "", suite:100, type:1
+2019/11/28 18:34:46 [notice] 15440#9100: start worker processes
+2019/11/28 18:34:46 [notice] 15440#9100: start worker process 216
+2019/11/28 18:34:46 [notice] 15168#14596: using the "select" event method
+2019/11/28 18:34:46 [notice] 15168#14596: nginx/1.17.2
+2019/11/28 18:34:46 [info] 15168#14596: OS: 260200 build:9200, "", suite:100, type:1
+2019/11/28 18:34:46 [notice] 15168#14596: start worker processes
+2019/11/28 18:34:46 [notice] 216#12028: nginx/1.17.2
+2019/11/28 18:34:46 [info] 216#12028: OS: 260200 build:9200, "", suite:100, type:1
+2019/11/28 18:34:46 [notice] 216#12028: create thread 14672
+2019/11/28 18:34:46 [notice] 216#12028: create thread 16048
+2019/11/28 18:34:46 [notice] 216#12028: create thread 15192
+2019/11/28 18:34:46 [notice] 15168#14596: start worker process 14220
+2019/11/28 18:34:46 [notice] 14220#16112: nginx/1.17.2
+2019/11/28 18:34:46 [info] 14220#16112: OS: 260200 build:9200, "", suite:100, type:1
+2019/11/28 18:34:46 [notice] 14220#16112: create thread 2776
+2019/11/28 18:34:46 [notice] 14220#16112: create thread 10472
+2019/11/28 18:34:46 [notice] 14220#16112: create thread 8024
+2019/11/28 18:35:39 [notice] 4072#13080: using the "select" event method
+2019/11/28 18:35:39 [notice] 4072#13080: nginx/1.17.2
+2019/11/28 18:35:39 [info] 4072#13080: OS: 260200 build:9200, "", suite:100, type:1
+2019/11/28 18:35:39 [notice] 4072#13080: start worker processes
+2019/11/28 18:35:39 [notice] 4072#13080: start worker process 15156
+2019/11/28 18:35:39 [notice] 8396#7080: using the "select" event method
+2019/11/28 18:35:39 [notice] 8396#7080: nginx/1.17.2
+2019/11/28 18:35:39 [info] 8396#7080: OS: 260200 build:9200, "", suite:100, type:1
+2019/11/28 18:35:39 [notice] 8396#7080: start worker processes
+2019/11/28 18:35:39 [notice] 15156#13064: nginx/1.17.2
+2019/11/28 18:35:39 [info] 15156#13064: OS: 260200 build:9200, "", suite:100, type:1
+2019/11/28 18:35:39 [notice] 15156#13064: create thread 14664
+2019/11/28 18:35:39 [notice] 15156#13064: create thread 2280
+2019/11/28 18:35:39 [notice] 15156#13064: create thread 11692
+2019/11/28 18:35:39 [notice] 8396#7080: start worker process 14080
+2019/11/28 18:35:39 [notice] 14080#14084: nginx/1.17.2
+2019/11/28 18:35:39 [info] 14080#14084: OS: 260200 build:9200, "", suite:100, type:1
+2019/11/28 18:35:39 [notice] 14080#14084: create thread 14428
+2019/11/28 18:35:39 [notice] 14080#14084: create thread 15908
+2019/11/28 18:35:39 [notice] 14080#14084: create thread 15120
+2020/01/16 14:36:15 [notice] 2004#5616: using the "select" event method
+2020/01/16 14:36:15 [notice] 2004#5616: nginx/1.17.2
+2020/01/16 14:36:15 [info] 2004#5616: OS: 260200 build:9200, "", suite:100, type:1
+2020/01/16 14:36:15 [notice] 2004#5616: start worker processes
+2020/01/16 14:36:15 [notice] 8880#4896: using the "select" event method
+2020/01/16 14:36:15 [notice] 8880#4896: nginx/1.17.2
+2020/01/16 14:36:15 [info] 8880#4896: OS: 260200 build:9200, "", suite:100, type:1
+2020/01/16 14:36:15 [notice] 2004#5616: start worker process 1156
+2020/01/16 14:36:15 [notice] 8880#4896: start worker processes
+2020/01/16 14:36:15 [notice] 8880#4896: start worker process 2544
+2020/01/16 14:36:15 [notice] 1156#10076: nginx/1.17.2
+2020/01/16 14:36:15 [info] 1156#10076: OS: 260200 build:9200, "", suite:100, type:1
+2020/01/16 14:36:15 [notice] 1156#10076: create thread 2248
+2020/01/16 14:36:15 [notice] 1156#10076: create thread 1280
+2020/01/16 14:36:15 [notice] 1156#10076: create thread 5488
+2020/01/16 14:36:15 [notice] 2544#12744: nginx/1.17.2
+2020/01/16 14:36:15 [info] 2544#12744: OS: 260200 build:9200, "", suite:100, type:1
+2020/01/16 14:36:15 [notice] 2544#12744: create thread 2336
+2020/01/16 14:36:15 [notice] 2544#12744: create thread 8500
+2020/01/16 14:36:15 [notice] 2544#12744: create thread 5144
+2020/01/16 14:41:46 [notice] 13976#11436: using the "select" event method
+2020/01/16 14:41:46 [notice] 13976#11436: nginx/1.17.2
+2020/01/16 14:41:46 [info] 13976#11436: OS: 260200 build:9200, "", suite:100, type:1
+2020/01/16 14:41:46 [notice] 16380#14184: using the "select" event method
+2020/01/16 14:41:46 [notice] 16380#14184: nginx/1.17.2
+2020/01/16 14:41:46 [info] 16380#14184: OS: 260200 build:9200, "", suite:100, type:1
+2020/01/16 14:41:46 [notice] 16380#14184: start worker processes
+2020/01/16 14:41:46 [notice] 13976#11436: start worker processes
+2020/01/16 14:41:46 [notice] 13976#11436: start worker process 12224
+2020/01/16 14:41:46 [notice] 16380#14184: start worker process 8444
+2020/01/16 14:41:46 [notice] 8444#11860: nginx/1.17.2
+2020/01/16 14:41:46 [info] 8444#11860: OS: 260200 build:9200, "", suite:100, type:1
+2020/01/16 14:41:46 [notice] 8444#11860: create thread 7384
+2020/01/16 14:41:46 [notice] 8444#11860: create thread 6388
+2020/01/16 14:41:46 [notice] 8444#11860: create thread 11620
+2020/01/16 14:41:46 [notice] 12224#2384: nginx/1.17.2
+2020/01/16 14:41:46 [info] 12224#2384: OS: 260200 build:9200, "", suite:100, type:1
+2020/01/16 14:41:46 [notice] 12224#2384: create thread 8932
+2020/01/16 14:41:46 [notice] 12224#2384: create thread 9024
+2020/01/16 14:41:46 [notice] 12224#2384: create thread 11444
+2020/04/02 11:42:10 [emerg] 26492#9448: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/02 11:42:10 [emerg] 24788#5048: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/02 11:43:01 [emerg] 26492#24924: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/02 11:43:02 [emerg] 10720#20400: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/02 11:43:14 [emerg] 1208#26516: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/02 11:43:14 [emerg] 26408#8176: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/02 15:13:30 [emerg] 21644#22512: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/02 15:13:30 [emerg] 23136#8852: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/02 16:04:53 [emerg] 13472#4432: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/02 16:04:54 [emerg] 1016#14836: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/02 16:23:56 [emerg] 9508#7984: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/02 16:23:56 [emerg] 11560#2808: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/02 16:56:26 [emerg] 16352#2860: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/02 16:56:26 [emerg] 7448#5340: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/03 09:08:14 [emerg] 11288#13084: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/03 09:08:14 [emerg] 14840#8384: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/03 09:12:07 [emerg] 9772#15748: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/03 09:12:07 [emerg] 7036#4328: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/03 11:08:43 [emerg] 13384#1232: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/03 11:08:43 [emerg] 8592#5012: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/03 14:37:26 [emerg] 7044#8076: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/03 14:37:26 [emerg] 12388#16904: bind() to 0.0.0.0:1935 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/04/13 11:42:08 [notice] 39268#34528: using the "select" event method
+2020/04/13 11:42:08 [notice] 39268#34528: nginx/1.17.2
+2020/04/13 11:42:08 [info] 39268#34528: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/13 11:42:08 [notice] 39268#34528: start worker processes
+2020/04/13 11:42:08 [notice] 39268#34528: start worker process 10548
+2020/04/13 11:42:09 [notice] 10548#9752: nginx/1.17.2
+2020/04/13 11:42:09 [info] 10548#9752: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/13 11:42:09 [notice] 10548#9752: create thread 18252
+2020/04/13 11:42:09 [notice] 10548#9752: create thread 34808
+2020/04/13 11:42:09 [notice] 10548#9752: create thread 42408
+2020/04/13 11:42:16 [info] 10548#18252: *1 client connected '127.0.0.1'
+2020/04/13 11:42:17 [info] 10548#18252: *1 connect: app='live' args='' flashver='FMLE/3.0 (compatible; Lavf58.42.100)' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/13 11:42:17 [debug] 10548#18252: *1 live: onFCPublish: stream=''
+2020/04/13 11:42:17 [debug] 10548#18252: *1 create: fcpublish - set structure data
+2020/04/13 11:42:17 [info] 10548#18252: *1 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/13 11:42:17 [error] 10548#18252: *1 publish: no stream name specified, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/13 11:42:17 [info] 10548#18252: *1 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/13 11:42:17 [info] 10548#18252: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/13 11:42:24 [notice] 36276#19608: using the "select" event method
+2020/04/13 11:42:24 [notice] 36276#19608: nginx/1.17.2
+2020/04/13 11:42:24 [info] 36276#19608: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/13 11:42:24 [notice] 36276#19608: start worker processes
+2020/04/13 11:42:24 [notice] 36276#19608: start worker process 31448
+2020/04/13 11:42:24 [notice] 31448#42084: nginx/1.17.2
+2020/04/13 11:42:24 [info] 31448#42084: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/13 11:42:24 [notice] 31448#42084: create thread 41812
+2020/04/13 11:42:24 [notice] 31448#42084: create thread 12764
+2020/04/13 11:42:24 [notice] 31448#42084: create thread 43236
+2020/04/13 11:42:35 [info] 10548#18252: *2 client connected '127.0.0.1'
+2020/04/13 11:42:35 [info] 10548#18252: *2 connect: app='live' args='' flashver='FMLE/3.0 (compatible; Lavf58.42.100)' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/13 11:42:35 [debug] 10548#18252: *2 live: onFCPublish: stream=''
+2020/04/13 11:42:35 [debug] 10548#18252: *2 create: fcpublish - set structure data
+2020/04/13 11:42:35 [info] 10548#18252: *2 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/13 11:42:35 [error] 10548#18252: *2 publish: no stream name specified, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/13 11:42:35 [info] 10548#18252: *2 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/13 11:42:35 [info] 10548#18252: *2 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 13:37:18 [notice] 40456#2168: using the "select" event method
+2020/04/14 13:37:18 [notice] 40456#2168: nginx/1.17.2
+2020/04/14 13:37:18 [info] 40456#2168: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 13:37:18 [notice] 40456#2168: start worker processes
+2020/04/14 13:37:18 [notice] 40456#2168: start worker process 37648
+2020/04/14 13:37:18 [notice] 37648#34172: nginx/1.17.2
+2020/04/14 13:37:18 [info] 37648#34172: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 13:37:18 [notice] 37648#34172: create thread 22192
+2020/04/14 13:37:18 [notice] 37648#34172: create thread 25068
+2020/04/14 13:37:18 [notice] 37648#34172: create thread 40084
+2020/04/14 13:38:09 [notice] 19860#40496: using the "select" event method
+2020/04/14 13:38:09 [notice] 19860#40496: nginx/1.17.2
+2020/04/14 13:38:09 [info] 19860#40496: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 13:38:09 [notice] 19860#40496: start worker processes
+2020/04/14 13:38:09 [notice] 19860#40496: start worker process 42704
+2020/04/14 13:38:09 [notice] 42704#42680: nginx/1.17.2
+2020/04/14 13:38:09 [info] 42704#42680: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 13:38:09 [notice] 42704#42680: create thread 1584
+2020/04/14 13:38:09 [notice] 42704#42680: create thread 42556
+2020/04/14 13:38:09 [notice] 42704#42680: create thread 29604
+2020/04/14 13:38:11 [notice] 25444#38568: using the "select" event method
+2020/04/14 13:38:11 [notice] 25444#38568: nginx/1.17.2
+2020/04/14 13:38:11 [info] 25444#38568: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 13:38:11 [notice] 25444#38568: start worker processes
+2020/04/14 13:38:11 [notice] 25444#38568: start worker process 43628
+2020/04/14 13:38:11 [notice] 43628#20400: nginx/1.17.2
+2020/04/14 13:38:11 [info] 43628#20400: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 13:38:11 [notice] 43628#20400: create thread 33392
+2020/04/14 13:38:11 [notice] 43628#20400: create thread 25468
+2020/04/14 13:38:11 [notice] 43628#20400: create thread 39368
+2020/04/14 13:38:29 [notice] 36588#42868: using the "select" event method
+2020/04/14 13:38:29 [notice] 36588#42868: nginx/1.17.2
+2020/04/14 13:38:29 [info] 36588#42868: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 13:38:29 [notice] 36588#42868: start worker processes
+2020/04/14 13:38:29 [notice] 36588#42868: start worker process 39784
+2020/04/14 13:38:29 [notice] 39784#35488: nginx/1.17.2
+2020/04/14 13:38:29 [info] 39784#35488: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 13:38:29 [notice] 39784#35488: create thread 38292
+2020/04/14 13:38:29 [notice] 39784#35488: create thread 27340
+2020/04/14 13:38:29 [notice] 39784#35488: create thread 30984
+2020/04/14 13:42:47 [info] 37648#22192: *1 client connected '192.168.99.11'
+2020/04/14 13:42:47 [info] 37648#22192: *1 connect: app='live' args='' flashver='FMLE/3.0 (compatible; Lavf58.42.100)' swf_url='' tc_url='rtmp://192.168.99.11:1935/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 192.168.99.11, server: 0.0.0.0:1935
+2020/04/14 13:42:47 [debug] 37648#22192: *1 live: onFCPublish: stream='room'
+2020/04/14 13:42:47 [debug] 37648#22192: *1 create: fcpublish - set structure data
+2020/04/14 13:42:47 [info] 37648#22192: *1 createStream, client: 192.168.99.11, server: 0.0.0.0:1935
+2020/04/14 13:42:47 [info] 37648#22192: *1 publish: name='room' args='' type=live silent=0, client: 192.168.99.11, server: 0.0.0.0:1935
+2020/04/14 13:43:09 [debug] 37648#22192: *1 live: onFCUnpublish: stream='room'
+2020/04/14 13:43:09 [debug] 37648#22192: *1 create: fcunpublish - set structure data
+2020/04/14 13:43:09 [info] 37648#22192: *1 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 192.168.99.11, server: 0.0.0.0:1935
+2020/04/14 13:43:09 [info] 37648#22192: *1 disconnect, client: 192.168.99.11, server: 0.0.0.0:1935
+2020/04/14 13:43:09 [info] 37648#22192: *1 deleteStream, client: 192.168.99.11, server: 0.0.0.0:1935
+2020/04/14 13:44:22 [notice] 40456#2168: worker process 37648 exited with code 1
+2020/04/14 13:44:22 [notice] 40456#2168: start worker process 32692
+2020/04/14 13:44:22 [notice] 32692#27640: nginx/1.17.2
+2020/04/14 13:44:22 [info] 32692#27640: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 13:44:22 [notice] 32692#27640: create thread 18356
+2020/04/14 13:44:22 [notice] 32692#27640: create thread 33780
+2020/04/14 13:44:22 [notice] 32692#27640: create thread 32808
+2020/04/14 13:44:27 [notice] 40456#2168: worker process 32692 exited with code 1
+2020/04/14 13:44:27 [notice] 40456#2168: start worker process 39632
+2020/04/14 13:44:27 [notice] 39632#41552: nginx/1.17.2
+2020/04/14 13:44:27 [info] 39632#41552: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 13:44:27 [notice] 39632#41552: create thread 38908
+2020/04/14 13:44:27 [notice] 39632#41552: create thread 4644
+2020/04/14 13:44:27 [notice] 39632#41552: create thread 36460
+2020/04/14 13:45:35 [notice] 40856#38812: using the "select" event method
+2020/04/14 13:45:35 [notice] 40856#38812: nginx/1.17.2
+2020/04/14 13:45:35 [info] 40856#38812: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 13:45:35 [notice] 40856#38812: start worker processes
+2020/04/14 13:45:35 [notice] 40856#38812: start worker process 36428
+2020/04/14 13:45:35 [notice] 36428#30916: nginx/1.17.2
+2020/04/14 13:45:35 [info] 36428#30916: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 13:45:35 [notice] 36428#30916: create thread 34320
+2020/04/14 13:45:35 [notice] 36428#30916: create thread 39544
+2020/04/14 13:45:35 [notice] 36428#30916: create thread 38840
+2020/04/14 13:45:48 [info] 36428#34320: *1 client connected '192.168.99.11'
+2020/04/14 13:45:48 [info] 36428#34320: *1 connect: app='live' args='' flashver='FMLE/3.0 (compatible; Lavf58.42.100)' swf_url='' tc_url='rtmp://192.168.99.11:1935/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 192.168.99.11, server: 0.0.0.0:1935
+2020/04/14 13:45:48 [debug] 36428#34320: *1 live: onFCPublish: stream='room'
+2020/04/14 13:45:48 [debug] 36428#34320: *1 create: fcpublish - set structure data
+2020/04/14 13:45:48 [info] 36428#34320: *1 createStream, client: 192.168.99.11, server: 0.0.0.0:1935
+2020/04/14 13:45:48 [info] 36428#34320: *1 publish: name='room' args='' type=live silent=0, client: 192.168.99.11, server: 0.0.0.0:1935
+2020/04/14 13:45:52 [debug] 36428#34320: *1 live: onFCUnpublish: stream='room'
+2020/04/14 13:45:52 [debug] 36428#34320: *1 create: fcunpublish - set structure data
+2020/04/14 13:45:52 [info] 36428#34320: *1 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 192.168.99.11, server: 0.0.0.0:1935
+2020/04/14 13:45:52 [info] 36428#34320: *1 disconnect, client: 192.168.99.11, server: 0.0.0.0:1935
+2020/04/14 13:45:52 [info] 36428#34320: *1 deleteStream, client: 192.168.99.11, server: 0.0.0.0:1935
+2020/04/14 13:46:24 [notice] 39548#36296: using the "select" event method
+2020/04/14 13:46:24 [notice] 39548#36296: nginx/1.17.2
+2020/04/14 13:46:24 [info] 39548#36296: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 13:46:24 [notice] 39548#36296: start worker processes
+2020/04/14 13:46:24 [notice] 39548#36296: start worker process 36696
+2020/04/14 13:46:24 [notice] 36696#33968: nginx/1.17.2
+2020/04/14 13:46:24 [info] 36696#33968: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 13:46:24 [notice] 36696#33968: create thread 21212
+2020/04/14 13:46:24 [notice] 36696#33968: create thread 39492
+2020/04/14 13:46:24 [notice] 36696#33968: create thread 34216
+2020/04/14 13:47:03 [notice] 21332#40012: signal process started
+2020/04/14 13:47:03 [notice] 39548#36296: exiting
+2020/04/14 13:47:03 [notice] 36696#33968: gracefully shutting down
+2020/04/14 13:47:03 [notice] 36696#39492: exiting
+2020/04/14 13:47:03 [notice] 36696#21212: exiting
+2020/04/14 13:47:03 [notice] 36696#33968: exit
+2020/04/14 13:47:03 [notice] 39548#36296: worker process 36696 exited with code 0
+2020/04/14 13:47:03 [notice] 39548#36296: exit
+2020/04/14 13:47:13 [notice] 7940#32200: signal process started
+2020/04/14 13:47:13 [error] 7940#32200: CreateFile() "D:\myProject\gopath\src\cebonplugin\lib\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/04/14 13:47:15 [notice] 43112#41928: signal process started
+2020/04/14 13:47:15 [error] 43112#41928: CreateFile() "D:\myProject\gopath\src\cebonplugin\lib\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/04/14 13:47:15 [notice] 39744#15324: signal process started
+2020/04/14 13:47:15 [error] 39744#15324: CreateFile() "D:\myProject\gopath\src\cebonplugin\lib\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/04/14 13:47:16 [notice] 35744#12516: signal process started
+2020/04/14 13:47:16 [error] 35744#12516: CreateFile() "D:\myProject\gopath\src\cebonplugin\lib\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/04/14 13:47:28 [info] 36428#34320: *2 client connected '192.168.99.11'
+2020/04/14 13:47:28 [info] 36428#34320: *2 connect: app='live' args='' flashver='FMLE/3.0 (compatible; Lavf58.42.100)' swf_url='' tc_url='rtmp://192.168.99.11:1935/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 192.168.99.11, server: 0.0.0.0:1935
+2020/04/14 13:47:28 [debug] 36428#34320: *2 live: onFCPublish: stream='room'
+2020/04/14 13:47:28 [debug] 36428#34320: *2 create: fcpublish - set structure data
+2020/04/14 13:47:28 [info] 36428#34320: *2 createStream, client: 192.168.99.11, server: 0.0.0.0:1935
+2020/04/14 13:47:28 [info] 36428#34320: *2 publish: name='room' args='' type=live silent=0, client: 192.168.99.11, server: 0.0.0.0:1935
+2020/04/14 13:47:33 [debug] 36428#34320: *2 live: onFCUnpublish: stream='room'
+2020/04/14 13:47:33 [debug] 36428#34320: *2 create: fcunpublish - set structure data
+2020/04/14 13:47:33 [info] 36428#34320: *2 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 192.168.99.11, server: 0.0.0.0:1935
+2020/04/14 13:47:33 [info] 36428#34320: *2 disconnect, client: 192.168.99.11, server: 0.0.0.0:1935
+2020/04/14 13:47:33 [info] 36428#34320: *2 deleteStream, client: 192.168.99.11, server: 0.0.0.0:1935
+2020/04/14 13:47:37 [notice] 40856#38812: worker process 36428 exited with code 1
+2020/04/14 13:47:37 [notice] 40856#38812: start worker process 20732
+2020/04/14 13:47:37 [notice] 20732#36684: nginx/1.17.2
+2020/04/14 13:47:37 [info] 20732#36684: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 13:47:37 [notice] 20732#36684: create thread 39956
+2020/04/14 13:47:37 [notice] 20732#36684: create thread 37308
+2020/04/14 13:47:37 [notice] 20732#36684: create thread 36272
+2020/04/14 14:44:36 [notice] 14572#37260: using the "select" event method
+2020/04/14 14:44:36 [notice] 14572#37260: nginx/1.17.2
+2020/04/14 14:44:36 [info] 14572#37260: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 14:44:36 [notice] 14572#37260: start worker processes
+2020/04/14 14:44:36 [notice] 14572#37260: start worker process 42824
+2020/04/14 14:44:36 [notice] 42824#40780: nginx/1.17.2
+2020/04/14 14:44:36 [info] 42824#40780: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 14:44:36 [notice] 42824#40780: create thread 42628
+2020/04/14 14:44:36 [notice] 42824#40780: create thread 35148
+2020/04/14 14:44:36 [notice] 42824#40780: create thread 35328
+2020/04/14 14:44:41 [notice] 14572#37260: worker process 42824 exited with code 1
+2020/04/14 14:44:41 [notice] 14572#37260: start worker process 42120
+2020/04/14 14:44:41 [notice] 42120#29904: nginx/1.17.2
+2020/04/14 14:44:41 [info] 42120#29904: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 14:44:41 [notice] 42120#29904: create thread 36096
+2020/04/14 14:44:41 [notice] 42120#29904: create thread 6776
+2020/04/14 14:44:41 [notice] 42120#29904: create thread 33436
+2020/04/14 14:45:07 [notice] 26248#7312: using the "select" event method
+2020/04/14 14:45:07 [notice] 26248#7312: nginx/1.17.2
+2020/04/14 14:45:07 [info] 26248#7312: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 14:45:07 [notice] 26248#7312: start worker processes
+2020/04/14 14:45:07 [notice] 26248#7312: start worker process 40336
+2020/04/14 14:45:07 [notice] 40336#39068: nginx/1.17.2
+2020/04/14 14:45:07 [info] 40336#39068: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 14:45:07 [notice] 40336#39068: create thread 42668
+2020/04/14 14:45:07 [notice] 40336#39068: create thread 8800
+2020/04/14 14:45:07 [notice] 40336#39068: create thread 26540
+2020/04/14 14:45:19 [notice] 32440#42860: signal process started
+2020/04/14 14:45:19 [notice] 26248#7312: exiting
+2020/04/14 14:45:19 [notice] 40336#39068: gracefully shutting down
+2020/04/14 14:45:19 [notice] 40336#8800: exiting
+2020/04/14 14:45:20 [notice] 40336#42668: exiting
+2020/04/14 14:45:20 [notice] 40336#39068: exit
+2020/04/14 14:45:20 [notice] 26248#7312: worker process 40336 exited with code 0
+2020/04/14 14:45:20 [notice] 26248#7312: exit
+2020/04/14 14:45:32 [notice] 35292#27548: using the "select" event method
+2020/04/14 14:45:32 [notice] 35292#27548: nginx/1.17.2
+2020/04/14 14:45:32 [info] 35292#27548: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 14:45:32 [notice] 35292#27548: start worker processes
+2020/04/14 14:45:32 [notice] 35292#27548: start worker process 40196
+2020/04/14 14:45:32 [notice] 40196#39824: nginx/1.17.2
+2020/04/14 14:45:32 [info] 40196#39824: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 14:45:32 [notice] 40196#39824: create thread 43084
+2020/04/14 14:45:32 [notice] 40196#39824: create thread 43576
+2020/04/14 14:45:32 [notice] 40196#39824: create thread 32176
+2020/04/14 14:45:38 [notice] 19652#29340: signal process started
+2020/04/14 14:45:38 [notice] 35292#27548: exiting
+2020/04/14 14:45:38 [notice] 40196#39824: gracefully shutting down
+2020/04/14 14:45:38 [notice] 40196#43576: exiting
+2020/04/14 14:45:39 [notice] 40196#43084: exiting
+2020/04/14 14:45:39 [notice] 40196#39824: exit
+2020/04/14 14:45:39 [notice] 35292#27548: worker process 40196 exited with code 0
+2020/04/14 14:45:39 [notice] 35292#27548: exit
+2020/04/14 15:18:58 [notice] 36948#9284: using the "select" event method
+2020/04/14 15:18:58 [notice] 36948#9284: nginx/1.17.2
+2020/04/14 15:18:58 [info] 36948#9284: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 15:18:58 [notice] 36948#9284: start worker processes
+2020/04/14 15:18:58 [notice] 36948#9284: start worker process 35040
+2020/04/14 15:18:58 [notice] 35040#40340: nginx/1.17.2
+2020/04/14 15:18:58 [info] 35040#40340: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 15:18:58 [notice] 35040#40340: create thread 8352
+2020/04/14 15:18:58 [notice] 35040#40340: create thread 28208
+2020/04/14 15:18:58 [notice] 35040#40340: create thread 42444
+2020/04/14 15:55:12 [notice] 36948#9284: worker process 35040 exited with code 1
+2020/04/14 15:55:12 [notice] 36948#9284: start worker process 37800
+2020/04/14 15:55:12 [notice] 37800#43480: nginx/1.17.2
+2020/04/14 15:55:12 [info] 37800#43480: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 15:55:12 [alert] 37800#43480: OpenEvent("ngx_master_36948") failed (2: The system cannot find the file specified)
+2020/04/14 15:55:17 [notice] 26820#12764: using the "select" event method
+2020/04/14 15:55:17 [notice] 26820#12764: nginx/1.17.2
+2020/04/14 15:55:17 [info] 26820#12764: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 15:55:17 [notice] 26820#12764: start worker processes
+2020/04/14 15:55:17 [notice] 26820#12764: start worker process 35268
+2020/04/14 15:55:17 [notice] 35268#10804: nginx/1.17.2
+2020/04/14 15:55:17 [info] 35268#10804: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 15:55:17 [notice] 35268#10804: create thread 41160
+2020/04/14 15:55:17 [notice] 35268#10804: create thread 40412
+2020/04/14 15:55:17 [notice] 35268#10804: create thread 36360
+2020/04/14 15:55:23 [notice] 26820#12764: worker process 35268 exited with code 1
+2020/04/14 15:55:23 [notice] 26820#12764: start worker process 41556
+2020/04/14 15:55:23 [notice] 41556#29392: nginx/1.17.2
+2020/04/14 15:55:23 [info] 41556#29392: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 15:55:23 [alert] 41556#29392: OpenEvent("ngx_master_26820") failed (2: The system cannot find the file specified)
+2020/04/14 16:40:58 [emerg] 4024#43824: CreateDirectory() "temp/hls" failed (3: The system cannot find the path specified)
+2020/04/14 16:42:53 [emerg] 37512#37680: CreateDirectory() "./temp/hls" failed (3: The system cannot find the path specified)
+2020/04/14 16:43:03 [emerg] 33848#25008: CreateDirectory() "temp/hls" failed (3: The system cannot find the path specified)
+2020/04/14 16:45:21 [notice] 23600#21156: using the "select" event method
+2020/04/14 16:45:21 [notice] 23600#21156: nginx/1.17.2
+2020/04/14 16:45:21 [info] 23600#21156: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:45:21 [notice] 23600#21156: start worker processes
+2020/04/14 16:45:21 [notice] 23600#21156: start worker process 35596
+2020/04/14 16:45:21 [notice] 35596#43440: nginx/1.17.2
+2020/04/14 16:45:21 [info] 35596#43440: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:45:21 [notice] 35596#43440: create thread 35332
+2020/04/14 16:45:21 [notice] 35596#43440: create thread 43148
+2020/04/14 16:45:21 [notice] 35596#43440: create thread 33756
+2020/04/14 16:46:21 [notice] 28264#25160: using the "select" event method
+2020/04/14 16:46:21 [notice] 28264#25160: nginx/1.17.2
+2020/04/14 16:46:21 [info] 28264#25160: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:46:21 [notice] 28264#25160: start worker processes
+2020/04/14 16:46:21 [notice] 28264#25160: start worker process 38748
+2020/04/14 16:46:21 [notice] 38748#33000: nginx/1.17.2
+2020/04/14 16:46:21 [info] 38748#33000: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:46:21 [notice] 38748#33000: create thread 24108
+2020/04/14 16:46:21 [notice] 38748#33000: create thread 28436
+2020/04/14 16:46:21 [notice] 38748#33000: create thread 37288
+2020/04/14 16:46:34 [info] 38748#24108: *1 client connected '192.168.99.11'
+2020/04/14 16:46:34 [info] 38748#24108: *1 connect: app='live' args='' flashver='FMLE/3.0 (compatible; Lavf58.42.100)' swf_url='' tc_url='rtmp://192.168.99.11:1935/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 192.168.99.11, server: 0.0.0.0:1935
+2020/04/14 16:46:34 [debug] 38748#24108: *1 live: onFCPublish: stream='room'
+2020/04/14 16:46:34 [debug] 38748#24108: *1 create: fcpublish - set structure data
+2020/04/14 16:46:34 [info] 38748#24108: *1 createStream, client: 192.168.99.11, server: 0.0.0.0:1935
+2020/04/14 16:46:34 [info] 38748#24108: *1 publish: name='room' args='' type=live silent=0, client: 192.168.99.11, server: 0.0.0.0:1935
+2020/04/14 16:47:39 [notice] 19860#20644: using the "select" event method
+2020/04/14 16:47:39 [notice] 19860#20644: nginx/1.17.2
+2020/04/14 16:47:39 [info] 19860#20644: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:47:39 [notice] 19860#20644: start worker processes
+2020/04/14 16:47:39 [notice] 19860#20644: start worker process 41160
+2020/04/14 16:47:39 [notice] 41160#26212: nginx/1.17.2
+2020/04/14 16:47:39 [info] 41160#26212: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:47:39 [notice] 41160#26212: create thread 20656
+2020/04/14 16:47:39 [notice] 41160#26212: create thread 16240
+2020/04/14 16:47:39 [notice] 41160#26212: create thread 38840
+2020/04/14 16:48:01 [notice] 43988#35664: using the "select" event method
+2020/04/14 16:48:01 [notice] 43988#35664: nginx/1.17.2
+2020/04/14 16:48:01 [info] 43988#35664: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:48:01 [notice] 43988#35664: start worker processes
+2020/04/14 16:48:01 [notice] 43988#35664: start worker process 39136
+2020/04/14 16:48:01 [notice] 39136#13776: nginx/1.17.2
+2020/04/14 16:48:01 [info] 39136#13776: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:48:01 [notice] 39136#13776: create thread 40636
+2020/04/14 16:48:01 [notice] 39136#13776: create thread 34736
+2020/04/14 16:48:01 [notice] 39136#13776: create thread 1436
+2020/04/14 16:48:41 [notice] 10056#11044: using the "select" event method
+2020/04/14 16:48:41 [notice] 10056#11044: nginx/1.17.2
+2020/04/14 16:48:41 [info] 10056#11044: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:48:41 [notice] 10056#11044: start worker processes
+2020/04/14 16:48:41 [notice] 10056#11044: start worker process 15524
+2020/04/14 16:48:41 [notice] 15524#32176: nginx/1.17.2
+2020/04/14 16:48:41 [info] 15524#32176: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:48:41 [notice] 15524#32176: create thread 22736
+2020/04/14 16:48:41 [notice] 15524#32176: create thread 37900
+2020/04/14 16:48:41 [notice] 15524#32176: create thread 40620
+2020/04/14 16:48:59 [notice] 28032#42232: using the "select" event method
+2020/04/14 16:48:59 [notice] 28032#42232: nginx/1.17.2
+2020/04/14 16:48:59 [info] 28032#42232: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:48:59 [notice] 28032#42232: start worker processes
+2020/04/14 16:48:59 [notice] 28032#42232: start worker process 42668
+2020/04/14 16:48:59 [notice] 42668#33088: nginx/1.17.2
+2020/04/14 16:48:59 [info] 42668#33088: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:48:59 [notice] 42668#33088: create thread 27020
+2020/04/14 16:48:59 [notice] 42668#33088: create thread 31948
+2020/04/14 16:48:59 [notice] 42668#33088: create thread 38828
+2020/04/14 16:49:35 [notice] 27812#35668: using the "select" event method
+2020/04/14 16:49:35 [notice] 27812#35668: nginx/1.17.2
+2020/04/14 16:49:35 [info] 27812#35668: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:49:35 [notice] 27812#35668: start worker processes
+2020/04/14 16:49:35 [notice] 27812#35668: start worker process 36812
+2020/04/14 16:49:35 [notice] 36812#11236: nginx/1.17.2
+2020/04/14 16:49:35 [info] 36812#11236: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:49:35 [notice] 36812#11236: create thread 37224
+2020/04/14 16:49:35 [notice] 36812#11236: create thread 41632
+2020/04/14 16:49:35 [notice] 36812#11236: create thread 36028
+2020/04/14 16:49:50 [notice] 42228#19532: using the "select" event method
+2020/04/14 16:49:50 [notice] 42228#19532: nginx/1.17.2
+2020/04/14 16:49:50 [info] 42228#19532: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:49:50 [notice] 42228#19532: start worker processes
+2020/04/14 16:49:50 [notice] 42228#19532: start worker process 36108
+2020/04/14 16:49:50 [notice] 36108#33092: nginx/1.17.2
+2020/04/14 16:49:50 [info] 36108#33092: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:49:50 [notice] 36108#33092: create thread 36844
+2020/04/14 16:49:50 [notice] 36108#33092: create thread 13332
+2020/04/14 16:49:50 [notice] 36108#33092: create thread 43472
+2020/04/14 16:49:59 [notice] 42228#19532: worker process 36108 exited with code 1
+2020/04/14 16:49:59 [notice] 42228#19532: start worker process 43380
+2020/04/14 16:49:59 [notice] 43380#43032: nginx/1.17.2
+2020/04/14 16:49:59 [info] 43380#43032: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:49:59 [notice] 43380#43032: create thread 15636
+2020/04/14 16:49:59 [notice] 43380#43032: create thread 37836
+2020/04/14 16:49:59 [notice] 43380#43032: create thread 21948
+2020/04/14 16:50:05 [notice] 42228#19532: worker process 43380 exited with code 1
+2020/04/14 16:50:05 [notice] 42228#19532: start worker process 36996
+2020/04/14 16:50:05 [notice] 36996#37776: nginx/1.17.2
+2020/04/14 16:50:05 [info] 36996#37776: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:50:05 [alert] 36996#37776: OpenEvent("ngx_master_42228") failed (2: The system cannot find the file specified)
+2020/04/14 16:50:09 [notice] 27812#35668: worker process 36812 exited with code 1
+2020/04/14 16:50:09 [notice] 27812#35668: start worker process 41256
+2020/04/14 16:50:09 [notice] 41256#39112: nginx/1.17.2
+2020/04/14 16:50:09 [info] 41256#39112: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:50:09 [notice] 41256#39112: create thread 37552
+2020/04/14 16:50:09 [notice] 41256#39112: create thread 32692
+2020/04/14 16:50:09 [notice] 41256#39112: create thread 11520
+2020/04/14 16:50:16 [notice] 27812#35668: worker process 41256 exited with code 1
+2020/04/14 16:50:16 [notice] 27812#35668: start worker process 29124
+2020/04/14 16:50:16 [notice] 29124#4676: nginx/1.17.2
+2020/04/14 16:50:16 [info] 29124#4676: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:50:16 [alert] 29124#4676: OpenEvent("ngx_master_27812") failed (2: The system cannot find the file specified)
+2020/04/14 16:50:26 [notice] 40196#39800: using the "select" event method
+2020/04/14 16:50:26 [notice] 40196#39800: nginx/1.17.2
+2020/04/14 16:50:26 [info] 40196#39800: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:50:26 [notice] 40196#39800: start worker processes
+2020/04/14 16:50:26 [notice] 40196#39800: start worker process 35944
+2020/04/14 16:50:26 [notice] 35944#30636: nginx/1.17.2
+2020/04/14 16:50:26 [info] 35944#30636: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:50:26 [notice] 35944#30636: create thread 43768
+2020/04/14 16:50:26 [notice] 35944#30636: create thread 28860
+2020/04/14 16:50:26 [notice] 35944#30636: create thread 12156
+2020/04/14 16:50:40 [notice] 40196#39800: worker process 35944 exited with code 1
+2020/04/14 16:50:40 [notice] 40196#39800: start worker process 38736
+2020/04/14 16:50:40 [notice] 38736#40660: nginx/1.17.2
+2020/04/14 16:50:40 [info] 38736#40660: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:50:40 [alert] 38736#40660: OpenEvent("ngx_master_40196") failed (2: The system cannot find the file specified)
+2020/04/14 16:51:07 [notice] 29988#38316: using the "select" event method
+2020/04/14 16:51:07 [notice] 29988#38316: nginx/1.17.2
+2020/04/14 16:51:07 [info] 29988#38316: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:51:07 [notice] 29988#38316: start worker processes
+2020/04/14 16:51:07 [notice] 29988#38316: start worker process 25008
+2020/04/14 16:51:07 [notice] 25008#40988: nginx/1.17.2
+2020/04/14 16:51:07 [info] 25008#40988: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 16:51:07 [notice] 25008#40988: create thread 38568
+2020/04/14 16:51:07 [notice] 25008#40988: create thread 36160
+2020/04/14 16:51:07 [notice] 25008#40988: create thread 13092
+2020/04/14 17:01:03 [notice] 40684#36744: using the "select" event method
+2020/04/14 17:01:03 [notice] 40684#36744: nginx/1.17.2
+2020/04/14 17:01:03 [info] 40684#36744: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:01:03 [notice] 40684#36744: start worker processes
+2020/04/14 17:01:03 [notice] 40684#36744: start worker process 33412
+2020/04/14 17:01:03 [notice] 33412#17912: nginx/1.17.2
+2020/04/14 17:01:03 [info] 33412#17912: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:01:03 [notice] 33412#17912: create thread 13500
+2020/04/14 17:01:03 [notice] 33412#17912: create thread 12236
+2020/04/14 17:01:03 [notice] 33412#17912: create thread 30852
+2020/04/14 17:04:03 [notice] 16996#6648: using the "select" event method
+2020/04/14 17:04:03 [notice] 16996#6648: nginx/1.17.2
+2020/04/14 17:04:03 [info] 16996#6648: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:04:03 [notice] 16996#6648: start worker processes
+2020/04/14 17:04:03 [notice] 16996#6648: start worker process 37588
+2020/04/14 17:04:03 [notice] 37588#14132: nginx/1.17.2
+2020/04/14 17:04:03 [info] 37588#14132: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:04:03 [notice] 37588#14132: create thread 41160
+2020/04/14 17:04:03 [notice] 37588#14132: create thread 27732
+2020/04/14 17:04:03 [notice] 37588#14132: create thread 33556
+2020/04/14 17:05:52 [notice] 40788#27192: using the "select" event method
+2020/04/14 17:05:52 [notice] 40788#27192: nginx/1.17.2
+2020/04/14 17:05:52 [info] 40788#27192: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:05:52 [notice] 40788#27192: start worker processes
+2020/04/14 17:05:52 [notice] 40788#27192: start worker process 16556
+2020/04/14 17:05:52 [notice] 16556#18356: nginx/1.17.2
+2020/04/14 17:05:52 [info] 16556#18356: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:05:52 [notice] 16556#18356: create thread 724
+2020/04/14 17:05:52 [notice] 16556#18356: create thread 19212
+2020/04/14 17:05:52 [notice] 16556#18356: create thread 35196
+2020/04/14 17:06:12 [notice] 33756#19184: using the "select" event method
+2020/04/14 17:06:12 [notice] 33756#19184: nginx/1.17.2
+2020/04/14 17:06:12 [info] 33756#19184: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:06:12 [notice] 33756#19184: start worker processes
+2020/04/14 17:06:12 [notice] 33756#19184: start worker process 43148
+2020/04/14 17:06:12 [notice] 43148#7136: nginx/1.17.2
+2020/04/14 17:06:12 [info] 43148#7136: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:06:12 [notice] 43148#7136: create thread 38636
+2020/04/14 17:06:12 [notice] 43148#7136: create thread 26252
+2020/04/14 17:06:12 [notice] 43148#7136: create thread 13544
+2020/04/14 17:06:41 [notice] 40788#27192: worker process 16556 exited with code 1
+2020/04/14 17:06:41 [notice] 40788#27192: start worker process 32888
+2020/04/14 17:06:41 [notice] 32888#28436: nginx/1.17.2
+2020/04/14 17:06:41 [info] 32888#28436: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:06:41 [notice] 32888#28436: create thread 32092
+2020/04/14 17:06:41 [notice] 32888#28436: create thread 36436
+2020/04/14 17:06:41 [notice] 32888#28436: create thread 26652
+2020/04/14 17:06:45 [notice] 40788#27192: worker process 32888 exited with code 1
+2020/04/14 17:06:45 [notice] 40788#27192: start worker process 35880
+2020/04/14 17:06:45 [notice] 35880#41392: nginx/1.17.2
+2020/04/14 17:06:45 [info] 35880#41392: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:06:45 [alert] 35880#41392: OpenEvent("ngx_master_40788") failed (2: The system cannot find the file specified)
+2020/04/14 17:06:50 [notice] 33756#19184: worker process 43148 exited with code 1
+2020/04/14 17:06:50 [notice] 33756#19184: start worker process 28440
+2020/04/14 17:06:50 [notice] 28440#32496: nginx/1.17.2
+2020/04/14 17:06:50 [info] 28440#32496: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:06:50 [notice] 28440#32496: create thread 33844
+2020/04/14 17:06:50 [notice] 28440#32496: create thread 42620
+2020/04/14 17:06:50 [notice] 28440#32496: create thread 38304
+2020/04/14 17:06:56 [notice] 33756#19184: worker process 28440 exited with code 1
+2020/04/14 17:06:56 [notice] 33756#19184: start worker process 5732
+2020/04/14 17:06:56 [notice] 5732#1068: nginx/1.17.2
+2020/04/14 17:06:56 [info] 5732#1068: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:06:56 [notice] 5732#1068: create thread 36576
+2020/04/14 17:06:56 [notice] 5732#1068: create thread 40308
+2020/04/14 17:06:56 [notice] 5732#1068: create thread 42664
+2020/04/14 17:07:03 [notice] 33756#19184: worker process 5732 exited with code 1
+2020/04/14 17:07:03 [notice] 33756#19184: start worker process 28724
+2020/04/14 17:07:03 [notice] 28724#42448: nginx/1.17.2
+2020/04/14 17:07:03 [info] 28724#42448: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:07:03 [alert] 28724#42448: OpenEvent("ngx_master_33756") failed (2: The system cannot find the file specified)
+2020/04/14 17:09:25 [notice] 19344#14968: using the "select" event method
+2020/04/14 17:09:25 [notice] 19344#14968: nginx/1.17.2
+2020/04/14 17:09:25 [info] 19344#14968: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:09:25 [notice] 19344#14968: start worker processes
+2020/04/14 17:09:25 [notice] 19344#14968: start worker process 7044
+2020/04/14 17:09:25 [notice] 7044#39184: nginx/1.17.2
+2020/04/14 17:09:25 [info] 7044#39184: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:09:25 [notice] 7044#39184: create thread 13904
+2020/04/14 17:09:25 [notice] 7044#39184: create thread 41808
+2020/04/14 17:09:25 [notice] 7044#39184: create thread 31604
+2020/04/14 17:12:08 [notice] 19344#14968: worker process 7044 exited with code 1
+2020/04/14 17:12:08 [notice] 19344#14968: start worker process 37424
+2020/04/14 17:12:08 [notice] 37424#37548: nginx/1.17.2
+2020/04/14 17:12:08 [info] 37424#37548: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:12:08 [notice] 37424#37548: create thread 32692
+2020/04/14 17:12:08 [notice] 37424#37548: create thread 27368
+2020/04/14 17:12:08 [notice] 37424#37548: create thread 42988
+2020/04/14 17:12:12 [notice] 19344#14968: worker process 37424 exited with code 1
+2020/04/14 17:12:12 [notice] 19344#14968: start worker process 37360
+2020/04/14 17:12:12 [notice] 37360#28620: nginx/1.17.2
+2020/04/14 17:12:12 [info] 37360#28620: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:12:12 [notice] 37360#28620: create thread 15632
+2020/04/14 17:12:12 [notice] 37360#28620: create thread 2752
+2020/04/14 17:12:12 [notice] 37360#28620: create thread 30944
+2020/04/14 17:12:17 [notice] 19344#14968: worker process 37360 exited with code 1
+2020/04/14 17:12:17 [notice] 19344#14968: start worker process 32624
+2020/04/14 17:12:17 [notice] 32624#36948: nginx/1.17.2
+2020/04/14 17:12:17 [info] 32624#36948: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:12:17 [notice] 32624#36948: create thread 42748
+2020/04/14 17:12:17 [notice] 32624#36948: create thread 32756
+2020/04/14 17:12:17 [notice] 32624#36948: create thread 26664
+2020/04/14 17:12:20 [notice] 19344#14968: worker process 32624 exited with code 1
+2020/04/14 17:12:20 [notice] 19344#14968: start worker process 11648
+2020/04/14 17:12:20 [notice] 11648#35556: nginx/1.17.2
+2020/04/14 17:12:20 [info] 11648#35556: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:12:20 [alert] 11648#35556: OpenEvent("ngx_master_19344") failed (2: The system cannot find the file specified)
+2020/04/14 17:12:38 [notice] 39892#43940: using the "select" event method
+2020/04/14 17:12:38 [notice] 39892#43940: nginx/1.17.2
+2020/04/14 17:12:38 [info] 39892#43940: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:12:38 [notice] 39892#43940: start worker processes
+2020/04/14 17:12:38 [notice] 39892#43940: start worker process 8800
+2020/04/14 17:12:38 [notice] 8800#40236: nginx/1.17.2
+2020/04/14 17:12:38 [info] 8800#40236: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:12:38 [notice] 8800#40236: create thread 27064
+2020/04/14 17:12:38 [notice] 8800#40236: create thread 12192
+2020/04/14 17:12:38 [notice] 8800#40236: create thread 36064
+2020/04/14 17:14:03 [notice] 43240#37276: using the "select" event method
+2020/04/14 17:14:03 [notice] 43240#37276: nginx/1.17.2
+2020/04/14 17:14:03 [info] 43240#37276: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:14:03 [notice] 43240#37276: start worker processes
+2020/04/14 17:14:03 [notice] 43240#37276: start worker process 36744
+2020/04/14 17:14:03 [notice] 36744#38516: nginx/1.17.2
+2020/04/14 17:14:03 [info] 36744#38516: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:14:03 [notice] 36744#38516: create thread 42900
+2020/04/14 17:14:03 [notice] 36744#38516: create thread 35236
+2020/04/14 17:14:03 [notice] 36744#38516: create thread 12344
+2020/04/14 17:14:21 [notice] 43740#25316: using the "select" event method
+2020/04/14 17:14:21 [notice] 43740#25316: nginx/1.17.2
+2020/04/14 17:14:21 [info] 43740#25316: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:14:21 [notice] 43740#25316: start worker processes
+2020/04/14 17:14:21 [notice] 43740#25316: start worker process 36396
+2020/04/14 17:14:21 [notice] 36396#25392: nginx/1.17.2
+2020/04/14 17:14:21 [info] 36396#25392: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:14:21 [notice] 36396#25392: create thread 33552
+2020/04/14 17:14:21 [notice] 36396#25392: create thread 29736
+2020/04/14 17:14:21 [notice] 36396#25392: create thread 21032
+2020/04/14 17:17:34 [notice] 35608#41388: using the "select" event method
+2020/04/14 17:17:34 [notice] 35608#41388: nginx/1.17.2
+2020/04/14 17:17:34 [info] 35608#41388: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:17:34 [notice] 35608#41388: start worker processes
+2020/04/14 17:17:34 [notice] 35608#41388: start worker process 25692
+2020/04/14 17:17:34 [notice] 25692#39996: nginx/1.17.2
+2020/04/14 17:17:34 [info] 25692#39996: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:17:34 [notice] 25692#39996: create thread 41996
+2020/04/14 17:17:34 [notice] 25692#39996: create thread 38196
+2020/04/14 17:17:34 [notice] 25692#39996: create thread 36924
+2020/04/14 17:17:58 [notice] 12344#38516: using the "select" event method
+2020/04/14 17:17:58 [notice] 12344#38516: nginx/1.17.2
+2020/04/14 17:17:58 [info] 12344#38516: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:17:58 [notice] 12344#38516: start worker processes
+2020/04/14 17:17:58 [notice] 12344#38516: start worker process 31636
+2020/04/14 17:17:58 [notice] 31636#36744: nginx/1.17.2
+2020/04/14 17:17:58 [info] 31636#36744: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:17:58 [notice] 31636#36744: create thread 29272
+2020/04/14 17:17:58 [notice] 31636#36744: create thread 43240
+2020/04/14 17:17:58 [notice] 31636#36744: create thread 43020
+2020/04/14 17:18:24 [notice] 4644#36504: using the "select" event method
+2020/04/14 17:18:24 [notice] 4644#36504: nginx/1.17.2
+2020/04/14 17:18:24 [info] 4644#36504: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:18:24 [notice] 4644#36504: start worker processes
+2020/04/14 17:18:24 [notice] 4644#36504: start worker process 36788
+2020/04/14 17:18:24 [notice] 36788#25160: nginx/1.17.2
+2020/04/14 17:18:24 [info] 36788#25160: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:18:24 [notice] 36788#25160: create thread 28548
+2020/04/14 17:18:24 [notice] 36788#25160: create thread 40588
+2020/04/14 17:18:24 [notice] 36788#25160: create thread 42292
+2020/04/14 17:18:32 [notice] 12344#38516: worker process 31636 exited with code 1
+2020/04/14 17:18:32 [notice] 12344#38516: start worker process 38908
+2020/04/14 17:18:32 [notice] 38908#39708: nginx/1.17.2
+2020/04/14 17:18:32 [info] 38908#39708: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:18:32 [alert] 38908#39708: OpenEvent("ngx_master_12344") failed (2: The system cannot find the file specified)
+2020/04/14 17:18:36 [notice] 4644#36504: worker process 36788 exited with code 1
+2020/04/14 17:18:36 [notice] 4644#36504: start worker process 40740
+2020/04/14 17:18:37 [notice] 40740#15144: nginx/1.17.2
+2020/04/14 17:18:37 [info] 40740#15144: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:18:37 [notice] 40740#15144: create thread 19836
+2020/04/14 17:18:37 [notice] 40740#15144: create thread 32252
+2020/04/14 17:18:37 [notice] 40740#15144: create thread 40036
+2020/04/14 17:18:40 [notice] 4644#36504: worker process 40740 exited with code 1
+2020/04/14 17:18:40 [notice] 33304#26164: nginx/1.17.2
+2020/04/14 17:18:40 [info] 33304#26164: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:18:40 [alert] 33304#26164: OpenEvent("ngx_master_4644") failed (2: The system cannot find the file specified)
+2020/04/14 17:22:36 [notice] 38812#34596: using the "select" event method
+2020/04/14 17:22:36 [notice] 38812#34596: nginx/1.17.2
+2020/04/14 17:22:36 [info] 38812#34596: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:22:36 [notice] 38812#34596: start worker processes
+2020/04/14 17:22:36 [notice] 38812#34596: start worker process 39048
+2020/04/14 17:22:36 [notice] 39048#21192: nginx/1.17.2
+2020/04/14 17:22:36 [info] 39048#21192: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:22:36 [notice] 39048#21192: create thread 39220
+2020/04/14 17:22:36 [notice] 39048#21192: create thread 8800
+2020/04/14 17:22:36 [notice] 39048#21192: create thread 7852
+2020/04/14 17:24:46 [notice] 38812#34596: worker process 39048 exited with code 1
+2020/04/14 17:24:46 [notice] 38812#34596: start worker process 37828
+2020/04/14 17:24:46 [notice] 37828#27124: nginx/1.17.2
+2020/04/14 17:24:46 [info] 37828#27124: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:24:46 [notice] 37828#27124: create thread 32192
+2020/04/14 17:24:46 [notice] 37828#27124: create thread 42120
+2020/04/14 17:24:46 [notice] 37828#27124: create thread 27772
+2020/04/14 17:24:49 [notice] 38812#34596: worker process 37828 exited with code 1
+2020/04/14 17:24:49 [notice] 38812#34596: start worker process 10064
+2020/04/14 17:24:49 [notice] 10064#32304: nginx/1.17.2
+2020/04/14 17:24:49 [info] 10064#32304: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:24:49 [notice] 10064#32304: create thread 16800
+2020/04/14 17:24:49 [notice] 10064#32304: create thread 33204
+2020/04/14 17:24:49 [notice] 10064#32304: create thread 16648
+2020/04/14 17:25:03 [notice] 42180#35220: using the "select" event method
+2020/04/14 17:25:03 [notice] 42180#35220: nginx/1.17.2
+2020/04/14 17:25:03 [info] 42180#35220: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:25:03 [notice] 42180#35220: start worker processes
+2020/04/14 17:25:03 [notice] 42180#35220: start worker process 29880
+2020/04/14 17:25:03 [notice] 29880#34416: nginx/1.17.2
+2020/04/14 17:25:03 [info] 29880#34416: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:25:03 [notice] 29880#34416: create thread 35040
+2020/04/14 17:25:03 [notice] 29880#34416: create thread 40532
+2020/04/14 17:25:03 [notice] 29880#34416: create thread 41292
+2020/04/14 17:26:46 [notice] 30232#4236: using the "select" event method
+2020/04/14 17:26:46 [notice] 30232#4236: nginx/1.17.2
+2020/04/14 17:26:46 [info] 30232#4236: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:26:46 [notice] 30232#4236: start worker processes
+2020/04/14 17:26:46 [notice] 30232#4236: start worker process 36792
+2020/04/14 17:26:46 [notice] 36792#38284: nginx/1.17.2
+2020/04/14 17:26:46 [info] 36792#38284: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:26:46 [notice] 36792#38284: create thread 42584
+2020/04/14 17:26:46 [notice] 36792#38284: create thread 34800
+2020/04/14 17:26:46 [notice] 36792#38284: create thread 17332
+2020/04/14 17:27:33 [notice] 39876#37200: using the "select" event method
+2020/04/14 17:27:33 [notice] 39876#37200: nginx/1.17.2
+2020/04/14 17:27:33 [info] 39876#37200: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:27:33 [notice] 39876#37200: start worker processes
+2020/04/14 17:27:33 [notice] 39876#37200: start worker process 29124
+2020/04/14 17:27:33 [notice] 29124#6116: nginx/1.17.2
+2020/04/14 17:27:33 [info] 29124#6116: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:27:33 [notice] 29124#6116: create thread 33660
+2020/04/14 17:27:33 [notice] 29124#6116: create thread 38152
+2020/04/14 17:27:33 [notice] 29124#6116: create thread 37008
+2020/04/14 17:27:38 [notice] 38364#9824: signal process started
+2020/04/14 17:27:38 [notice] 39876#37200: shutting down
+2020/04/14 17:27:38 [notice] 29124#6116: gracefully shutting down
+2020/04/14 17:27:38 [notice] 29124#38152: exiting
+2020/04/14 17:27:38 [notice] 29124#33660: exiting
+2020/04/14 17:27:38 [notice] 29124#6116: exit
+2020/04/14 17:27:38 [notice] 39876#37200: worker process 29124 exited with code 0
+2020/04/14 17:27:38 [notice] 39876#37200: exit
+2020/04/14 17:27:44 [notice] 30232#4236: worker process 36792 exited with code 1
+2020/04/14 17:27:44 [notice] 30232#4236: start worker process 42228
+2020/04/14 17:27:44 [notice] 42228#724: nginx/1.17.2
+2020/04/14 17:27:44 [info] 42228#724: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:27:44 [alert] 42228#724: OpenEvent("ngx_master_30232") failed (2: The system cannot find the file specified)
+2020/04/14 17:29:13 [notice] 25660#22588: using the "select" event method
+2020/04/14 17:29:13 [notice] 25660#22588: nginx/1.17.2
+2020/04/14 17:29:13 [info] 25660#22588: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:29:13 [notice] 25660#22588: start worker processes
+2020/04/14 17:29:13 [notice] 25660#22588: start worker process 29424
+2020/04/14 17:29:13 [notice] 29424#43516: nginx/1.17.2
+2020/04/14 17:29:13 [info] 29424#43516: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:29:13 [notice] 29424#43516: create thread 39524
+2020/04/14 17:29:13 [notice] 29424#43516: create thread 34832
+2020/04/14 17:29:13 [notice] 29424#43516: create thread 35436
+2020/04/14 17:29:19 [notice] 39220#21192: signal process started
+2020/04/14 17:29:19 [notice] 25660#22588: shutting down
+2020/04/14 17:29:19 [notice] 29424#43516: gracefully shutting down
+2020/04/14 17:29:19 [notice] 29424#34832: exiting
+2020/04/14 17:29:19 [notice] 29424#39524: exiting
+2020/04/14 17:29:19 [notice] 29424#43516: exit
+2020/04/14 17:29:19 [notice] 25660#22588: worker process 29424 exited with code 0
+2020/04/14 17:29:19 [notice] 25660#22588: exit
+2020/04/14 17:29:25 [notice] 37404#43296: using the "select" event method
+2020/04/14 17:29:25 [notice] 37404#43296: nginx/1.17.2
+2020/04/14 17:29:25 [info] 37404#43296: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:29:25 [notice] 37404#43296: start worker processes
+2020/04/14 17:29:25 [notice] 37404#43296: start worker process 43420
+2020/04/14 17:29:25 [notice] 43420#3784: nginx/1.17.2
+2020/04/14 17:29:25 [info] 43420#3784: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:29:25 [notice] 43420#3784: create thread 41544
+2020/04/14 17:29:25 [notice] 43420#3784: create thread 21428
+2020/04/14 17:29:25 [notice] 43420#3784: create thread 34544
+2020/04/14 17:29:33 [notice] 33168#39032: signal process started
+2020/04/14 17:29:33 [notice] 37404#43296: shutting down
+2020/04/14 17:29:33 [notice] 43420#3784: gracefully shutting down
+2020/04/14 17:29:33 [notice] 43420#21428: exiting
+2020/04/14 17:29:33 [notice] 43420#41544: exiting
+2020/04/14 17:29:33 [notice] 43420#3784: exit
+2020/04/14 17:29:33 [notice] 37404#43296: worker process 43420 exited with code 0
+2020/04/14 17:29:33 [notice] 37404#43296: exit
+2020/04/14 17:29:35 [notice] 7632#10056: using the "select" event method
+2020/04/14 17:29:35 [notice] 7632#10056: nginx/1.17.2
+2020/04/14 17:29:35 [info] 7632#10056: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:29:35 [notice] 7632#10056: start worker processes
+2020/04/14 17:29:35 [notice] 7632#10056: start worker process 37516
+2020/04/14 17:29:35 [notice] 37516#43020: nginx/1.17.2
+2020/04/14 17:29:35 [info] 37516#43020: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:29:35 [notice] 37516#43020: create thread 37668
+2020/04/14 17:29:35 [notice] 37516#43020: create thread 37064
+2020/04/14 17:29:35 [notice] 37516#43020: create thread 40316
+2020/04/14 17:29:56 [info] 37516#37668: *1 client connected '127.0.0.1'
+2020/04/14 17:29:56 [info] 37516#37668: *1 connect: app='live' args='' flashver='FMLE/3.0 (compatible; Lavf58.20.100)' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:29:56 [debug] 37516#37668: *1 live: onFCPublish: stream='a4a6e271-cfc5-4ae0-86f9-8cefe2d784e6'
+2020/04/14 17:29:56 [debug] 37516#37668: *1 create: fcpublish - set structure data
+2020/04/14 17:29:56 [info] 37516#37668: *1 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:29:56 [info] 37516#37668: *1 publish: name='a4a6e271-cfc5-4ae0-86f9-8cefe2d784e6' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:30:07 [info] 37516#37668: *2 client connected '127.0.0.1'
+2020/04/14 17:30:07 [info] 37516#37668: *2 connect: app='live' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:30:07 [info] 37516#37668: *2 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:30:07 [info] 37516#37668: *2 play: name='a4a6e271-cfc5-4ae0-86f9-8cefe2d784e6' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:30:18 [info] 37516#37668: *2 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:30:18 [info] 37516#37668: *2 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:30:18 [info] 37516#37668: *2 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:30:31 [info] 37516#37668: *1 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:30:31 [info] 37516#37668: *1 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:30:31 [info] 37516#37668: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:33:23 [notice] 33584#40268: signal process started
+2020/04/14 17:33:23 [notice] 7632#10056: shutting down
+2020/04/14 17:33:23 [notice] 37516#43020: gracefully shutting down
+2020/04/14 17:33:23 [notice] 37516#37064: exiting
+2020/04/14 17:33:23 [notice] 37516#37668: exiting
+2020/04/14 17:33:23 [notice] 37516#43020: exit
+2020/04/14 17:33:23 [notice] 7632#10056: worker process 37516 exited with code 0
+2020/04/14 17:33:23 [notice] 7632#10056: exit
+2020/04/14 17:33:54 [notice] 30484#31016: using the "select" event method
+2020/04/14 17:33:54 [notice] 30484#31016: nginx/1.17.2
+2020/04/14 17:33:54 [info] 30484#31016: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:33:54 [notice] 30484#31016: start worker processes
+2020/04/14 17:33:54 [notice] 30484#31016: start worker process 41312
+2020/04/14 17:33:54 [notice] 41312#32820: nginx/1.17.2
+2020/04/14 17:33:54 [info] 41312#32820: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:33:54 [notice] 41312#32820: create thread 36192
+2020/04/14 17:33:54 [notice] 41312#32820: create thread 15228
+2020/04/14 17:33:54 [notice] 41312#32820: create thread 38412
+2020/04/14 17:35:07 [info] 41312#36192: *1 client connected '127.0.0.1'
+2020/04/14 17:35:07 [info] 41312#36192: *1 connect: app='live' args='' flashver='FMLE/3.0 (compatible; Lavf58.20.100)' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:35:07 [debug] 41312#36192: *1 live: onFCPublish: stream='a43b30c7-8938-4130-9c24-768be3eff615'
+2020/04/14 17:35:07 [debug] 41312#36192: *1 create: fcpublish - set structure data
+2020/04/14 17:35:07 [info] 41312#36192: *1 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:35:07 [info] 41312#36192: *1 publish: name='a43b30c7-8938-4130-9c24-768be3eff615' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:35:30 [info] 41312#36192: *2 client connected '127.0.0.1'
+2020/04/14 17:35:30 [info] 41312#36192: *2 connect: app='live' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:35:30 [info] 41312#36192: *2 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:35:30 [info] 41312#36192: *2 play: name='a43b30c7-8938-4130-9c24-768be3eff615' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:35:38 [info] 41312#36192: *2 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:35:38 [info] 41312#36192: *2 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:35:38 [info] 41312#36192: *2 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:35:52 [info] 41312#36192: *1 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:35:52 [info] 41312#36192: *1 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:35:52 [info] 41312#36192: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 17:36:08 [notice] 3252#22736: signal process started
+2020/04/14 17:36:08 [notice] 30484#31016: shutting down
+2020/04/14 17:36:08 [notice] 41312#32820: gracefully shutting down
+2020/04/14 17:36:08 [notice] 41312#15228: exiting
+2020/04/14 17:36:08 [notice] 41312#36192: exiting
+2020/04/14 17:36:08 [notice] 41312#32820: exit
+2020/04/14 17:36:08 [notice] 30484#31016: worker process 41312 exited with code 0
+2020/04/14 17:36:08 [notice] 30484#31016: exit
+2020/04/14 17:43:00 [notice] 42148#28344: using the "select" event method
+2020/04/14 17:43:00 [notice] 42148#28344: nginx/1.17.2
+2020/04/14 17:43:00 [info] 42148#28344: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:43:00 [notice] 42148#28344: start worker processes
+2020/04/14 17:43:00 [notice] 42148#28344: start worker process 7344
+2020/04/14 17:43:00 [notice] 7344#39868: nginx/1.17.2
+2020/04/14 17:43:00 [info] 7344#39868: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 17:43:00 [notice] 7344#39868: create thread 10992
+2020/04/14 17:43:00 [notice] 7344#39868: create thread 35276
+2020/04/14 17:43:00 [notice] 7344#39868: create thread 13348
+2020/04/14 17:43:04 [notice] 34188#40132: signal process started
+2020/04/14 17:43:04 [notice] 42148#28344: shutting down
+2020/04/14 17:43:04 [notice] 7344#39868: gracefully shutting down
+2020/04/14 17:43:04 [notice] 7344#35276: exiting
+2020/04/14 17:43:04 [notice] 7344#10992: exiting
+2020/04/14 17:43:04 [notice] 7344#39868: exit
+2020/04/14 17:43:04 [notice] 42148#28344: worker process 7344 exited with code 0
+2020/04/14 17:43:04 [notice] 42148#28344: exit
+2020/04/14 18:10:41 [notice] 32756#36044: using the "select" event method
+2020/04/14 18:10:41 [notice] 32756#36044: nginx/1.17.2
+2020/04/14 18:10:41 [info] 32756#36044: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 18:10:41 [notice] 32756#36044: start worker processes
+2020/04/14 18:10:41 [notice] 32756#36044: start worker process 3472
+2020/04/14 18:10:41 [notice] 3472#43244: nginx/1.17.2
+2020/04/14 18:10:41 [info] 3472#43244: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/14 18:10:41 [notice] 3472#43244: create thread 29916
+2020/04/14 18:10:41 [notice] 3472#43244: create thread 37956
+2020/04/14 18:10:41 [notice] 3472#43244: create thread 13064
+2020/04/14 18:10:51 [info] 3472#29916: *1 client connected '127.0.0.1'
+2020/04/14 18:10:51 [info] 3472#29916: *1 connect: app='live' args='' flashver='FMLE/3.0 (compatible; Lavf58.20.100)' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:10:51 [debug] 3472#29916: *1 live: onFCPublish: stream='f3fab864-f85a-4fb6-8d40-b050ab60a885'
+2020/04/14 18:10:51 [debug] 3472#29916: *1 create: fcpublish - set structure data
+2020/04/14 18:10:51 [info] 3472#29916: *1 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:10:51 [info] 3472#29916: *1 publish: name='f3fab864-f85a-4fb6-8d40-b050ab60a885' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:11:10 [info] 3472#29916: *2 client connected '127.0.0.1'
+2020/04/14 18:11:10 [info] 3472#29916: *2 connect: app='live' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:11:10 [info] 3472#29916: *2 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:11:10 [info] 3472#29916: *2 play: name='f3fab864-f85a-4fb6-8d40-b050ab60a885' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:11:40 [info] 3472#29916: *2 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:11:40 [info] 3472#29916: *2 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:11:40 [info] 3472#29916: *2 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:11:45 [info] 3472#29916: *3 client connected '127.0.0.1'
+2020/04/14 18:11:45 [info] 3472#29916: *3 connect: app='live' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:11:45 [info] 3472#29916: *3 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:11:45 [info] 3472#29916: *3 play: name='f3fab864-f85a-4fb6-8d40-b050ab60a885' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:12:22 [info] 3472#29916: *3 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:12:22 [info] 3472#29916: *3 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:12:22 [info] 3472#29916: *3 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:12:48 [info] 3472#29916: *1 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:12:48 [info] 3472#29916: *1 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:12:48 [info] 3472#29916: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:12:54 [info] 3472#29916: *4 client connected '127.0.0.1'
+2020/04/14 18:12:54 [info] 3472#29916: *4 connect: app='live' args='' flashver='FMLE/3.0 (compatible; Lavf58.20.100)' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:12:54 [debug] 3472#29916: *4 live: onFCPublish: stream='9a1fd1b3-ff4c-4932-b46e-7f7280d8cb00'
+2020/04/14 18:12:54 [debug] 3472#29916: *4 create: fcpublish - set structure data
+2020/04/14 18:12:54 [info] 3472#29916: *4 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:12:54 [info] 3472#29916: *4 publish: name='9a1fd1b3-ff4c-4932-b46e-7f7280d8cb00' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:13:10 [info] 3472#29916: *5 client connected '127.0.0.1'
+2020/04/14 18:13:10 [info] 3472#29916: *5 connect: app='live' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:13:10 [info] 3472#29916: *5 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:13:10 [info] 3472#29916: *5 play: name='9a1fd1b3-ff4c-4932-b46e-7f7280d8cb00' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:13:48 [info] 3472#29916: *5 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:13:48 [info] 3472#29916: *5 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:13:48 [info] 3472#29916: *5 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:14:14 [info] 3472#29916: *6 client connected '127.0.0.1'
+2020/04/14 18:14:14 [info] 3472#29916: *6 connect: app='live' args='' flashver='FMLE/3.0 (compatible; Lavf58.20.100)' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:14:14 [debug] 3472#29916: *6 live: onFCPublish: stream='eb18c29f-3832-4172-84ae-d5f68a083b9c'
+2020/04/14 18:14:14 [debug] 3472#29916: *6 create: fcpublish - set structure data
+2020/04/14 18:14:14 [info] 3472#29916: *6 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:14:14 [info] 3472#29916: *6 publish: name='eb18c29f-3832-4172-84ae-d5f68a083b9c' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:14:25 [info] 3472#29916: *7 client connected '127.0.0.1'
+2020/04/14 18:14:25 [info] 3472#29916: *7 connect: app='live' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:14:25 [info] 3472#29916: *7 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:14:25 [info] 3472#29916: *7 play: name='eb18c29f-3832-4172-84ae-d5f68a083b9c' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:15:14 [info] 3472#29916: *7 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:15:14 [info] 3472#29916: *7 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:15:14 [info] 3472#29916: *7 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:15:28 [debug] 3472#29916: *6 live: onFCUnpublish: stream='eb18c29f-3832-4172-84ae-d5f68a083b9c'
+2020/04/14 18:15:28 [debug] 3472#29916: *6 create: fcunpublish - set structure data
+2020/04/14 18:15:28 [info] 3472#29916: *6 WSASend() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:15:28 [info] 3472#29916: *6 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:15:28 [info] 3472#29916: *6 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:15:28 [info] 3472#29916: *6 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:15:28 [debug] 3472#29916: *4 live: onFCUnpublish: stream='9a1fd1b3-ff4c-4932-b46e-7f7280d8cb00'
+2020/04/14 18:15:28 [debug] 3472#29916: *4 create: fcunpublish - set structure data
+2020/04/14 18:15:28 [info] 3472#29916: *4 WSASend() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:15:28 [info] 3472#29916: *4 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:15:28 [info] 3472#29916: *4 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:15:28 [info] 3472#29916: *4 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/14 18:15:28 [notice] 32680#10532: signal process started
+2020/04/14 18:15:28 [notice] 32756#36044: shutting down
+2020/04/14 18:15:28 [notice] 3472#43244: gracefully shutting down
+2020/04/14 18:15:28 [notice] 3472#37956: exiting
+2020/04/14 18:15:28 [notice] 3472#29916: exiting
+2020/04/14 18:15:28 [notice] 3472#43244: exit
+2020/04/14 18:15:28 [notice] 32756#36044: worker process 3472 exited with code 0
+2020/04/14 18:15:28 [notice] 32756#36044: exit
+2020/04/16 16:20:32 [notice] 43420#39292: using the "select" event method
+2020/04/16 16:20:32 [notice] 43420#39292: nginx/1.17.2
+2020/04/16 16:20:32 [info] 43420#39292: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/16 16:20:32 [notice] 43420#39292: start worker processes
+2020/04/16 16:20:32 [notice] 43420#39292: start worker process 15676
+2020/04/16 16:20:32 [notice] 15676#7708: nginx/1.17.2
+2020/04/16 16:20:32 [info] 15676#7708: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/16 16:20:32 [notice] 15676#7708: create thread 23768
+2020/04/16 16:20:32 [notice] 15676#7708: create thread 37520
+2020/04/16 16:20:32 [notice] 15676#7708: create thread 36696
+2020/04/16 16:21:11 [info] 15676#23768: *1 client connected '127.0.0.1'
+2020/04/16 16:21:11 [info] 15676#23768: *1 connect: app='live' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:21:11 [info] 15676#23768: *1 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:21:11 [info] 15676#23768: *1 play: name='c5df15ae-9dc2-455a-8344-d451164b15e0' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:22:11 [info] 15676#23768: *1 client timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:22:11 [info] 15676#23768: *1 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:22:11 [info] 15676#23768: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:24:19 [info] 15676#23768: *2 client connected '127.0.0.1'
+2020/04/16 16:24:19 [info] 15676#23768: *2 connect: app='live' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:24:19 [info] 15676#23768: *2 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:24:19 [info] 15676#23768: *2 play: name='0df1894d-ea79-480a-a675-5a1b720372fd' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:25:15 [notice] 17480#19532: signal process started
+2020/04/16 16:25:15 [notice] 43420#39292: shutting down
+2020/04/16 16:25:15 [notice] 15676#7708: gracefully shutting down
+2020/04/16 16:25:15 [notice] 15676#37520: exiting
+2020/04/16 16:25:18 [notice] 17188#30908: using the "select" event method
+2020/04/16 16:25:18 [notice] 17188#30908: nginx/1.17.2
+2020/04/16 16:25:18 [info] 17188#30908: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/16 16:25:18 [notice] 17188#30908: start worker processes
+2020/04/16 16:25:18 [notice] 17188#30908: start worker process 39492
+2020/04/16 16:25:18 [notice] 39492#35848: nginx/1.17.2
+2020/04/16 16:25:18 [info] 39492#35848: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/16 16:25:18 [notice] 39492#35848: create thread 38784
+2020/04/16 16:25:18 [notice] 39492#35848: create thread 42900
+2020/04/16 16:25:18 [notice] 39492#35848: create thread 42804
+2020/04/16 16:25:19 [info] 15676#23768: *2 client timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:25:19 [info] 15676#23768: *2 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:25:19 [info] 15676#23768: *2 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:25:19 [notice] 15676#23768: exiting
+2020/04/16 16:25:19 [notice] 15676#7708: exit
+2020/04/16 16:25:20 [notice] 43420#39292: worker process 15676 exited with code 0
+2020/04/16 16:25:20 [notice] 43420#39292: exit
+2020/04/16 16:26:39 [notice] 25948#36916: signal process started
+2020/04/16 16:26:39 [error] 25948#36916: CreateFile() "D:/myProject/gopath/src/ffmpeg-transfer/lib/nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/04/16 16:26:44 [notice] 32924#21332: using the "select" event method
+2020/04/16 16:26:44 [notice] 32924#21332: nginx/1.17.2
+2020/04/16 16:26:44 [info] 32924#21332: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/16 16:26:44 [notice] 32924#21332: start worker processes
+2020/04/16 16:26:44 [notice] 32924#21332: start worker process 38584
+2020/04/16 16:26:44 [notice] 38584#5732: nginx/1.17.2
+2020/04/16 16:26:44 [info] 38584#5732: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/16 16:26:44 [notice] 38584#5732: create thread 42404
+2020/04/16 16:26:44 [notice] 38584#5732: create thread 28440
+2020/04/16 16:26:44 [notice] 38584#5732: create thread 33280
+2020/04/16 16:27:00 [info] 39492#38784: *1 client connected '127.0.0.1'
+2020/04/16 16:27:00 [info] 39492#38784: *1 connect: app='live' args='' flashver='FMLE/3.0 (compatible; Lavf58.20.100)' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:27:00 [debug] 39492#38784: *1 live: onFCPublish: stream='6ad024c5-4453-4667-a083-140a2509d941'
+2020/04/16 16:27:00 [debug] 39492#38784: *1 create: fcpublish - set structure data
+2020/04/16 16:27:00 [info] 39492#38784: *1 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:27:00 [info] 39492#38784: *1 publish: name='6ad024c5-4453-4667-a083-140a2509d941' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:27:27 [info] 39492#38784: *1 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:27:27 [info] 39492#38784: *1 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:27:27 [info] 39492#38784: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:27:38 [info] 39492#38784: *2 client connected '127.0.0.1'
+2020/04/16 16:27:38 [info] 39492#38784: *2 connect: app='live' args='' flashver='FMLE/3.0 (compatible; Lavf58.20.100)' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:27:38 [debug] 39492#38784: *2 live: onFCPublish: stream='792c31ee-3b01-4112-b6ee-9e009bf93e3d'
+2020/04/16 16:27:38 [debug] 39492#38784: *2 create: fcpublish - set structure data
+2020/04/16 16:27:38 [info] 39492#38784: *2 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:27:38 [info] 39492#38784: *2 publish: name='792c31ee-3b01-4112-b6ee-9e009bf93e3d' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:27:53 [info] 39492#38784: *3 client connected '127.0.0.1'
+2020/04/16 16:27:53 [info] 39492#38784: *3 connect: app='live' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:27:53 [info] 39492#38784: *3 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:27:53 [info] 39492#38784: *3 play: name='792c31ee-3b01-4112-b6ee-9e009bf93e3d' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:28:52 [info] 39492#38784: *3 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:28:52 [info] 39492#38784: *3 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:29:30 [notice] 27656#38296: signal process started
+2020/04/16 16:29:30 [notice] 32924#21332: shutting down
+2020/04/16 16:29:30 [notice] 38584#5732: gracefully shutting down
+2020/04/16 16:29:30 [notice] 38584#28440: exiting
+2020/04/16 16:29:31 [notice] 38584#42404: exiting
+2020/04/16 16:29:31 [notice] 38584#5732: exit
+2020/04/16 16:29:31 [notice] 32924#21332: worker process 38584 exited with code 0
+2020/04/16 16:29:31 [notice] 32924#21332: exit
+2020/04/16 16:29:32 [debug] 39492#38784: *2 live: onFCUnpublish: stream='792c31ee-3b01-4112-b6ee-9e009bf93e3d'
+2020/04/16 16:29:32 [debug] 39492#38784: *2 create: fcunpublish - set structure data
+2020/04/16 16:29:32 [info] 39492#38784: *2 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:29:32 [info] 39492#38784: *2 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:29:32 [info] 39492#38784: *2 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:29:32 [info] 39492#38784: *2 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/04/16 16:29:34 [notice] 17480#13140: using the "select" event method
+2020/04/16 16:29:34 [notice] 17480#13140: nginx/1.17.2
+2020/04/16 16:29:34 [info] 17480#13140: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/16 16:29:34 [notice] 17480#13140: start worker processes
+2020/04/16 16:29:34 [notice] 17480#13140: start worker process 22488
+2020/04/16 16:29:34 [notice] 22488#37244: nginx/1.17.2
+2020/04/16 16:29:34 [info] 22488#37244: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/16 16:29:34 [notice] 22488#37244: create thread 40140
+2020/04/16 16:29:34 [notice] 22488#37244: create thread 43852
+2020/04/16 16:29:34 [notice] 22488#37244: create thread 34996
+2020/04/16 16:31:29 [notice] 37556#33056: signal process started
+2020/04/16 16:31:29 [notice] 17480#13140: shutting down
+2020/04/16 16:31:29 [notice] 22488#37244: gracefully shutting down
+2020/04/16 16:31:29 [notice] 22488#43852: exiting
+2020/04/16 16:31:29 [notice] 22488#40140: exiting
+2020/04/16 16:31:29 [notice] 22488#37244: exit
+2020/04/16 16:31:29 [notice] 17480#13140: worker process 22488 exited with code 0
+2020/04/16 16:31:29 [notice] 17480#13140: exit
+2020/04/16 16:31:32 [notice] 35652#31636: using the "select" event method
+2020/04/16 16:31:32 [notice] 35652#31636: nginx/1.17.2
+2020/04/16 16:31:32 [info] 35652#31636: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/16 16:31:32 [notice] 35652#31636: start worker processes
+2020/04/16 16:31:32 [notice] 35652#31636: start worker process 11236
+2020/04/16 16:31:32 [notice] 11236#38340: nginx/1.17.2
+2020/04/16 16:31:32 [info] 11236#38340: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/16 16:31:32 [notice] 11236#38340: create thread 32476
+2020/04/16 16:31:32 [notice] 11236#38340: create thread 33344
+2020/04/16 16:31:32 [notice] 11236#38340: create thread 29860
+2020/04/16 16:46:22 [notice] 38380#9768: signal process started
+2020/04/16 16:46:22 [notice] 35652#31636: shutting down
+2020/04/16 16:46:22 [notice] 11236#38340: gracefully shutting down
+2020/04/16 16:46:22 [notice] 11236#33344: exiting
+2020/04/16 16:46:23 [notice] 11236#32476: exiting
+2020/04/16 16:46:23 [notice] 11236#38340: exit
+2020/04/16 16:46:23 [notice] 35652#31636: worker process 11236 exited with code 0
+2020/04/16 16:46:23 [notice] 35652#31636: exit
+2020/04/16 16:48:06 [notice] 34720#28400: using the "select" event method
+2020/04/16 16:48:06 [notice] 34720#28400: nginx/1.17.2
+2020/04/16 16:48:06 [info] 34720#28400: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/16 16:48:06 [notice] 34720#28400: start worker processes
+2020/04/16 16:48:06 [notice] 34720#28400: start worker process 38076
+2020/04/16 16:48:06 [notice] 38076#7456: nginx/1.17.2
+2020/04/16 16:48:06 [info] 38076#7456: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/16 16:48:06 [notice] 38076#7456: create thread 27172
+2020/04/16 16:48:06 [notice] 38076#7456: create thread 9768
+2020/04/16 16:48:06 [notice] 38076#7456: create thread 28980
+2020/04/16 16:48:41 [notice] 39552#32956: signal process started
+2020/04/16 16:48:41 [notice] 34720#28400: shutting down
+2020/04/16 16:48:41 [notice] 38076#7456: gracefully shutting down
+2020/04/16 16:48:41 [notice] 38076#9768: exiting
+2020/04/16 16:48:41 [notice] 38076#27172: exiting
+2020/04/16 16:48:41 [notice] 38076#7456: exit
+2020/04/16 16:48:41 [notice] 34720#28400: worker process 38076 exited with code 0
+2020/04/16 16:48:41 [notice] 34720#28400: exit
+2020/04/16 16:48:44 [notice] 5224#31532: using the "select" event method
+2020/04/16 16:48:44 [notice] 5224#31532: nginx/1.17.2
+2020/04/16 16:48:44 [info] 5224#31532: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/16 16:48:44 [notice] 5224#31532: start worker processes
+2020/04/16 16:48:44 [notice] 5224#31532: start worker process 27856
+2020/04/16 16:48:44 [notice] 27856#42596: nginx/1.17.2
+2020/04/16 16:48:44 [info] 27856#42596: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/16 16:48:44 [notice] 27856#42596: create thread 38412
+2020/04/16 16:48:44 [notice] 27856#42596: create thread 24140
+2020/04/16 16:48:44 [notice] 27856#42596: create thread 38044
+2020/04/16 16:50:04 [notice] 39552#12272: signal process started
+2020/04/16 16:50:04 [notice] 5224#31532: shutting down
+2020/04/16 16:50:04 [notice] 27856#42596: gracefully shutting down
+2020/04/16 16:50:04 [notice] 27856#24140: exiting
+2020/04/16 16:50:04 [notice] 27856#38412: exiting
+2020/04/16 16:50:04 [notice] 27856#42596: exit
+2020/04/16 16:50:04 [notice] 5224#31532: worker process 27856 exited with code 0
+2020/04/16 16:50:04 [notice] 5224#31532: exit
+2020/04/16 16:50:06 [notice] 29608#25608: using the "select" event method
+2020/04/16 16:50:06 [notice] 29608#25608: nginx/1.17.2
+2020/04/16 16:50:06 [info] 29608#25608: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/16 16:50:06 [notice] 29608#25608: start worker processes
+2020/04/16 16:50:06 [notice] 29608#25608: start worker process 28232
+2020/04/16 16:50:06 [notice] 28232#42112: nginx/1.17.2
+2020/04/16 16:50:06 [info] 28232#42112: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/16 16:50:06 [notice] 28232#42112: create thread 34924
+2020/04/16 16:50:06 [notice] 28232#42112: create thread 41732
+2020/04/16 16:50:06 [notice] 28232#42112: create thread 2432
+2020/04/16 17:14:20 [notice] 14008#38928: signal process started
+2020/04/16 17:14:20 [notice] 29608#25608: shutting down
+2020/04/16 17:14:20 [notice] 28232#42112: gracefully shutting down
+2020/04/16 17:14:20 [notice] 28232#41732: exiting
+2020/04/16 17:14:20 [notice] 28232#34924: exiting
+2020/04/16 17:14:20 [notice] 28232#42112: exit
+2020/04/16 17:14:20 [notice] 29608#25608: worker process 28232 exited with code 0
+2020/04/16 17:14:20 [notice] 29608#25608: exit
+2020/04/16 17:14:22 [notice] 37204#37860: using the "select" event method
+2020/04/16 17:14:22 [notice] 37204#37860: nginx/1.17.2
+2020/04/16 17:14:22 [info] 37204#37860: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/16 17:14:22 [notice] 37204#37860: start worker processes
+2020/04/16 17:14:22 [notice] 37204#37860: start worker process 3428
+2020/04/16 17:14:23 [notice] 3428#28472: nginx/1.17.2
+2020/04/16 17:14:23 [info] 3428#28472: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/16 17:14:23 [notice] 3428#28472: create thread 35764
+2020/04/16 17:14:23 [notice] 3428#28472: create thread 6436
+2020/04/16 17:14:23 [notice] 3428#28472: create thread 22640
+2020/04/16 17:17:08 [notice] 36668#5496: signal process started
+2020/04/16 17:17:08 [notice] 37204#37860: shutting down
+2020/04/16 17:17:08 [notice] 3428#28472: gracefully shutting down
+2020/04/16 17:17:08 [notice] 3428#6436: exiting
+2020/04/16 17:17:08 [notice] 3428#35764: exiting
+2020/04/16 17:17:08 [notice] 3428#28472: exit
+2020/04/16 17:17:08 [notice] 37204#37860: worker process 3428 exited with code 0
+2020/04/16 17:17:08 [notice] 37204#37860: exit
+2020/04/23 21:03:07 [notice] 17188#30908: worker process 39492 exited with code 1
+2020/04/23 21:03:07 [notice] 17188#30908: start worker process 48032
+2020/04/23 21:03:07 [notice] 48032#48464: nginx/1.17.2
+2020/04/23 21:03:07 [info] 48032#48464: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/04/23 21:03:07 [notice] 48032#48464: create thread 48056
+2020/04/23 21:03:07 [notice] 48032#48464: create thread 48208
+2020/04/23 21:03:07 [notice] 48032#48464: create thread 16764
+2020/05/07 17:14:49 [notice] 48968#60928: using the "select" event method
+2020/05/07 17:14:49 [notice] 48968#60928: nginx/1.17.2
+2020/05/07 17:14:49 [info] 48968#60928: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/05/07 17:14:49 [notice] 48968#60928: start worker processes
+2020/05/07 17:14:49 [notice] 48968#60928: start worker process 59244
+2020/05/07 17:14:49 [notice] 59244#58904: nginx/1.17.2
+2020/05/07 17:14:49 [info] 59244#58904: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/05/07 17:14:49 [notice] 59244#58904: create thread 60184
+2020/05/07 17:14:49 [notice] 59244#58904: create thread 58756
+2020/05/07 17:14:49 [notice] 59244#58904: create thread 60456
+2020/05/07 17:15:22 [info] 59244#60184: *1 client connected '127.0.0.1'
+2020/05/07 17:15:22 [info] 59244#60184: *1 connect: app='live' args='' flashver='FMLE/3.0 (compatible; Lavf58.20.100)' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/05/07 17:15:22 [debug] 59244#60184: *1 live: onFCPublish: stream='3b112db1-a84d-413c-b787-be477701aa68'
+2020/05/07 17:15:22 [debug] 59244#60184: *1 create: fcpublish - set structure data
+2020/05/07 17:15:22 [info] 59244#60184: *1 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/05/07 17:15:22 [info] 59244#60184: *1 publish: name='3b112db1-a84d-413c-b787-be477701aa68' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/05/07 17:16:43 [info] 59244#60184: *2 client connected '127.0.0.1'
+2020/05/07 17:16:43 [info] 59244#60184: *2 connect: app='live' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/05/07 17:16:43 [info] 59244#60184: *2 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/05/07 17:16:43 [info] 59244#60184: *2 play: name='3b112db1-a84d-413c-b787-be477701aa68' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/05/07 17:18:07 [info] 59244#60184: *2 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/05/07 17:18:07 [info] 59244#60184: *2 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/05/07 17:18:07 [info] 59244#60184: *2 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/05/07 17:32:09 [info] 59244#60184: *3 client connected '127.0.0.1'
+2020/05/07 17:32:09 [info] 59244#60184: *3 connect: app='live' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://localhost:1935/live' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/05/07 17:32:09 [info] 59244#60184: *3 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/05/07 17:32:09 [info] 59244#60184: *3 play: name='3b112db1-a84d-413c-b787-be477701aa68' args='' start=-2000 duration=0 reset=0 silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/05/07 17:32:23 [info] 59244#60184: *3 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/05/07 17:32:23 [info] 59244#60184: *3 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/05/07 17:32:23 [info] 59244#60184: *3 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/05/07 17:50:54 [notice] 55972#15496: signal process started
+2020/05/07 17:50:54 [notice] 48968#60928: shutting down
+2020/05/07 17:50:54 [notice] 59244#58904: gracefully shutting down
+2020/05/07 17:50:54 [notice] 59244#58756: exiting
+2020/05/07 17:50:58 [debug] 59244#60184: *1 live: onFCUnpublish: stream='3b112db1-a84d-413c-b787-be477701aa68'
+2020/05/07 17:50:58 [debug] 59244#60184: *1 create: fcunpublish - set structure data
+2020/05/07 17:50:58 [info] 59244#60184: *1 WSASend() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/05/07 17:50:58 [info] 59244#60184: *1 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2020/05/07 17:50:58 [info] 59244#60184: *1 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/05/07 17:50:58 [info] 59244#60184: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/05/07 17:50:58 [notice] 59244#60184: exiting
+2020/05/07 17:50:58 [notice] 59244#58904: exit
+2020/05/07 17:50:58 [notice] 48968#60928: worker process 59244 exited with code 0
+2020/05/07 17:50:58 [notice] 48968#60928: exit
+2020/06/16 09:13:07 [notice] 22448#21728: using the "select" event method
+2020/06/16 09:13:07 [notice] 22448#21728: nginx/1.17.2
+2020/06/16 09:13:07 [info] 22448#21728: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/06/16 09:13:07 [notice] 22448#21728: start worker processes
+2020/06/16 09:13:07 [notice] 22448#21728: start worker process 20556
+2020/06/16 09:13:07 [notice] 20556#19492: nginx/1.17.2
+2020/06/16 09:13:07 [info] 20556#19492: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2020/06/16 09:13:07 [notice] 20556#19492: create thread 14144
+2020/06/16 09:13:07 [notice] 20556#19492: create thread 22112
+2020/06/16 09:13:07 [notice] 20556#19492: create thread 20860
+2020/06/16 09:13:18 [notice] 14116#22252: signal process started
+2020/06/16 09:13:18 [notice] 22448#21728: shutting down
+2020/06/16 09:13:18 [notice] 20556#19492: gracefully shutting down
+2020/06/16 09:13:18 [notice] 20556#22112: exiting
+2020/06/16 09:13:18 [notice] 20556#14144: exiting
+2020/06/16 09:13:18 [notice] 20556#19492: exit
+2020/06/16 09:13:18 [notice] 22448#21728: worker process 20556 exited with code 0
+2020/06/16 09:13:18 [notice] 22448#21728: exit
