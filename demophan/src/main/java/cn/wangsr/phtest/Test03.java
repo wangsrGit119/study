@@ -45,8 +45,8 @@ public class Test03 {
             WebElement pwdElement= driver.findElement(By.name("password"));
 //
 //
-            userNameElement.sendKeys("17864280652");
-            pwdElement.sendKeys("123456wjl");
+            userNameElement.sendKeys("1786429999952");
+            pwdElement.sendKeys("sssssss");
 
             File file=driver.getScreenshotAs(OutputType.FILE);
             FileUtils.copyFile(file,new File("./zhihu/"+"douban01.jpg"));
