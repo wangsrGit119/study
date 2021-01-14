@@ -49,8 +49,8 @@ public class Test02 {
             WebElement pwdElement= driver.findElement(By.id("password"));
 
 
-            userNameElement.sendKeys("17864280652");
-            pwdElement.sendKeys("123456wjl");
+            userNameElement.sendKeys("17860000000");
+            pwdElement.sendKeys("aaa");
 
             WebElement loginButton = driver.findElement(By.className("account-form-field-submit"));
             loginButton.click();
